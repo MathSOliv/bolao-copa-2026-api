@@ -1,0 +1,242 @@
+[
+  {
+    "nome": "Alemanha",
+    "sigla": "GER",
+    "bandeira": "https://flagcdn.com/de.svg"
+  },
+  {
+    "nome": "África do Sul",
+    "sigla": "RSA",
+    "bandeira": "https://flagcdn.com/za.svg"
+  },
+  {
+    "nome": "Arábia Saudita",
+    "sigla": "KSA",
+    "bandeira": "https://flagcdn.com/sa.svg"
+  },
+  {
+    "nome": "Argentina",
+    "sigla": "ARG",
+    "bandeira": "https://flagcdn.com/ar.svg"
+  },
+  {
+    "nome": "Argélia",
+    "sigla": "ALG",
+    "bandeira": "https://flagcdn.com/dz.svg"
+  },
+  {
+    "nome": "Austrália",
+    "sigla": "AUS",
+    "bandeira": "https://flagcdn.com/au.svg"
+  },
+  {
+    "nome": "Áustria",
+    "sigla": "AUT",
+    "bandeira": "https://flagcdn.com/at.svg"
+  },
+  {
+    "nome": "Bélgica",
+    "sigla": "BEL",
+    "bandeira": "https://flagcdn.com/be.svg"
+  },
+  {
+    "nome": "Bósnia e Herzegovina",
+    "sigla": "BIH",
+    "bandeira": "https://flagcdn.com/ba.svg"
+  },
+  {
+    "nome": "Brasil",
+    "sigla": "BRA",
+    "bandeira": "https://flagcdn.com/br.svg"
+  },
+  {
+    "nome": "Cabo Verde",
+    "sigla": "CPV",
+    "bandeira": "https://flagcdn.com/cv.svg"
+  },
+  {
+    "nome": "Canadá",
+    "sigla": "CAN",
+    "bandeira": "https://flagcdn.com/ca.svg"
+  },
+  {
+    "nome": "Catar",
+    "sigla": "QAT",
+    "bandeira": "https://flagcdn.com/qa.svg"
+  },
+  {
+    "nome": "Colômbia",
+    "sigla": "COL",
+    "bandeira": "https://flagcdn.com/co.svg"
+  },
+  {
+    "nome": "Coreia do Sul",
+    "sigla": "KOR",
+    "bandeira": "https://flagcdn.com/kr.svg"
+  },
+  {
+    "nome": "Costa do Marfim",
+    "sigla": "CIV",
+    "bandeira": "https://flagcdn.com/ci.svg"
+  },
+  {
+    "nome": "Croácia",
+    "sigla": "CRO",
+    "bandeira": "https://flagcdn.com/hr.svg"
+  },
+  {
+    "nome": "Curaçau",
+    "sigla": "CUW",
+    "bandeira": "https://flagcdn.com/cw.svg"
+  },
+  {
+    "nome": "Egito",
+    "sigla": "EGY",
+    "bandeira": "https://flagcdn.com/eg.svg"
+  },
+  {
+    "nome": "Equador",
+    "sigla": "ECU",
+    "bandeira": "https://flagcdn.com/ec.svg"
+  },
+  {
+    "nome": "Escócia",
+    "sigla": "SCO",
+    "bandeira": "https://flagcdn.com/gb-sct.svg"
+  },
+  {
+    "nome": "Espanha",
+    "sigla": "ESP",
+    "bandeira": "https://flagcdn.com/es.svg"
+  },
+  {
+    "nome": "Estados Unidos",
+    "sigla": "USA",
+    "bandeira": "https://flagcdn.com/us.svg"
+  },
+  {
+    "nome": "França",
+    "sigla": "FRA",
+    "bandeira": "https://flagcdn.com/fr.svg"
+  },
+  {
+    "nome": "Gana",
+    "sigla": "GHA",
+    "bandeira": "https://flagcdn.com/gh.svg"
+  },
+  {
+    "nome": "Haiti",
+    "sigla": "HAI",
+    "bandeira": "https://flagcdn.com/ht.svg"
+  },
+  {
+    "nome": "Holanda",
+    "sigla": "NED",
+    "bandeira": "https://flagcdn.com/nl.svg"
+  },
+  {
+    "nome": "Inglaterra",
+    "sigla": "ENG",
+    "bandeira": "https://flagcdn.com/gb-eng.svg"
+  },
+  {
+    "nome": "Irã",
+    "sigla": "IRN",
+    "bandeira": "https://flagcdn.com/ir.svg"
+  },
+  {
+    "nome": "Iraque",
+    "sigla": "IRQ",
+    "bandeira": "https://flagcdn.com/iq.svg"
+  },
+  {
+    "nome": "Japão",
+    "sigla": "JPN",
+    "bandeira": "https://flagcdn.com/jp.svg"
+  },
+  {
+    "nome": "Jordânia",
+    "sigla": "JOR",
+    "bandeira": "https://flagcdn.com/jo.svg"
+  },
+  {
+    "nome": "Marrocos",
+    "sigla": "MAR",
+    "bandeira": "https://flagcdn.com/ma.svg"
+  },
+  {
+    "nome": "México",
+    "sigla": "MEX",
+    "bandeira": "https://flagcdn.com/mx.svg"
+  },
+  {
+    "nome": "Noruega",
+    "sigla": "NOR",
+    "bandeira": "https://flagcdn.com/no.svg"
+  },
+  {
+    "nome": "Nova Zelândia",
+    "sigla": "NZL",
+    "bandeira": "https://flagcdn.com/nz.svg"
+  },
+  {
+    "nome": "Panamá",
+    "sigla": "PAN",
+    "bandeira": "https://flagcdn.com/pa.svg"
+  },
+  {
+    "nome": "Paraguai",
+    "sigla": "PAR",
+    "bandeira": "https://flagcdn.com/py.svg"
+  },
+  {
+    "nome": "Portugal",
+    "sigla": "POR",
+    "bandeira": "https://flagcdn.com/pt.svg"
+  },
+  {
+    "nome": "RD do Congo",
+    "sigla": "COD",
+    "bandeira": "https://flagcdn.com/cd.svg"
+  },
+  {
+    "nome": "República Tcheca",
+    "sigla": "CZE",
+    "bandeira": "https://flagcdn.com/cz.svg"
+  },
+  {
+    "nome": "Senegal",
+    "sigla": "SEN",
+    "bandeira": "https://flagcdn.com/sn.svg"
+  },
+  {
+    "nome": "Suécia",
+    "sigla": "SWE",
+    "bandeira": "https://flagcdn.com/se.svg"
+  },
+  {
+    "nome": "Suíça",
+    "sigla": "SUI",
+    "bandeira": "https://flagcdn.com/ch.svg"
+  },
+  {
+    "nome": "Tunísia",
+    "sigla": "TUN",
+    "bandeira": "https://flagcdn.com/tn.svg"
+  },
+  {
+    "nome": "Turquia",
+    "sigla": "TUR",
+    "bandeira": "https://flagcdn.com/tr.svg"
+  },
+  {
+    "nome": "Uruguai",
+    "sigla": "URU",
+    "bandeira": "https://flagcdn.com/uy.svg"
+  },
+  {
+    "nome": "Uzbequistão",
+    "sigla": "UZB",
+    "bandeira": "https://flagcdn.com/uz.svg"
+  }
+]

@@ -1,0 +1,1 @@
+# bolao-copa-2026-api

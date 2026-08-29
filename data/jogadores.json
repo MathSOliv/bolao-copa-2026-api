@@ -1,0 +1,4094 @@
+[
+  {
+    "nome": "Evidence Makgopa",
+    "selecao": "África do Sul",
+    "sigla": "RSA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Iqraam Rayners",
+    "selecao": "África do Sul",
+    "sigla": "RSA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Jayden Adams",
+    "selecao": "África do Sul",
+    "sigla": "RSA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Kamogelo Sebelebele",
+    "selecao": "África do Sul",
+    "sigla": "RSA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Lyle Foster",
+    "selecao": "África do Sul",
+    "sigla": "RSA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Oswin Appollis",
+    "selecao": "África do Sul",
+    "sigla": "RSA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Relebohile Mofokeng",
+    "selecao": "África do Sul",
+    "sigla": "RSA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Sphephelo Sithole",
+    "selecao": "África do Sul",
+    "sigla": "RSA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Teboho Mokoena",
+    "selecao": "África do Sul",
+    "sigla": "RSA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Thalente Mbatha",
+    "selecao": "África do Sul",
+    "sigla": "RSA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Thapelo Maseko",
+    "selecao": "África do Sul",
+    "sigla": "RSA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Themba Zwane",
+    "selecao": "África do Sul",
+    "sigla": "RSA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Tshepang Moremi",
+    "selecao": "África do Sul",
+    "sigla": "RSA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Aleksandar Pavlović",
+    "selecao": "Alemanha",
+    "sigla": "GER",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Angelo Stiller",
+    "selecao": "Alemanha",
+    "sigla": "GER",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Assan Ouédraogo",
+    "selecao": "Alemanha",
+    "sigla": "GER",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Deniz Undav",
+    "selecao": "Alemanha",
+    "sigla": "GER",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Felix Nmecha",
+    "selecao": "Alemanha",
+    "sigla": "GER",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Florian Wirtz",
+    "selecao": "Alemanha",
+    "sigla": "GER",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Jamal Musiala",
+    "selecao": "Alemanha",
+    "sigla": "GER",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Jamie Leweling",
+    "selecao": "Alemanha",
+    "sigla": "GER",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Kai Havertz",
+    "selecao": "Alemanha",
+    "sigla": "GER",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Leon Goretzka",
+    "selecao": "Alemanha",
+    "sigla": "GER",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Leroy Sané",
+    "selecao": "Alemanha",
+    "sigla": "GER",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Maximilian Beier",
+    "selecao": "Alemanha",
+    "sigla": "GER",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Nadiem Amiri",
+    "selecao": "Alemanha",
+    "sigla": "GER",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Nick Woltemade",
+    "selecao": "Alemanha",
+    "sigla": "GER",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Pascal Groß",
+    "selecao": "Alemanha",
+    "sigla": "GER",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Abdullah Al-Hamdan",
+    "selecao": "Arábia Saudita",
+    "sigla": "KSA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Abdullah Al-Khaibari",
+    "selecao": "Arábia Saudita",
+    "sigla": "KSA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Alaa Al-Hejji",
+    "selecao": "Arábia Saudita",
+    "sigla": "KSA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ayman Yahya",
+    "selecao": "Arábia Saudita",
+    "sigla": "KSA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Firas Al-Buraikan",
+    "selecao": "Arábia Saudita",
+    "sigla": "KSA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Khalid Al-Ghannam",
+    "selecao": "Arábia Saudita",
+    "sigla": "KSA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Mohamed Kanno",
+    "selecao": "Arábia Saudita",
+    "sigla": "KSA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Musab Al-Juwayr",
+    "selecao": "Arábia Saudita",
+    "sigla": "KSA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Nasser Al-Dawsari",
+    "selecao": "Arábia Saudita",
+    "sigla": "KSA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Saleh Al-Shehri",
+    "selecao": "Arábia Saudita",
+    "sigla": "KSA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Salem Al-Dawsari",
+    "selecao": "Arábia Saudita",
+    "sigla": "KSA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Sultan Mandash",
+    "selecao": "Arábia Saudita",
+    "sigla": "KSA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Ziyad Al-Johani",
+    "selecao": "Arábia Saudita",
+    "sigla": "KSA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Adil Boulbina",
+    "selecao": "Argélia",
+    "sigla": "ALG",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Amine Gouiri",
+    "selecao": "Argélia",
+    "sigla": "ALG",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Anis Hadj Moussa",
+    "selecao": "Argélia",
+    "sigla": "ALG",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Farès Chaïbi",
+    "selecao": "Argélia",
+    "sigla": "ALG",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Farès Ghedjemis",
+    "selecao": "Argélia",
+    "sigla": "ALG",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Hicham Boudaoui",
+    "selecao": "Argélia",
+    "sigla": "ALG",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Houssem Aouar",
+    "selecao": "Argélia",
+    "sigla": "ALG",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ibrahim Maza",
+    "selecao": "Argélia",
+    "sigla": "ALG",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Mohamed Amoura",
+    "selecao": "Argélia",
+    "sigla": "ALG",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Nabil Bentaleb",
+    "selecao": "Argélia",
+    "sigla": "ALG",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Nadhir Benbouali",
+    "selecao": "Argélia",
+    "sigla": "ALG",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Ramiz Zerrouki",
+    "selecao": "Argélia",
+    "sigla": "ALG",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Riyad Mahrez",
+    "selecao": "Argélia",
+    "sigla": "ALG",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Yacine Titraoui",
+    "selecao": "Argélia",
+    "sigla": "ALG",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Alexis Mac Allister",
+    "selecao": "Argentina",
+    "sigla": "ARG",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Enzo Fernández",
+    "selecao": "Argentina",
+    "sigla": "ARG",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Exequiel Palacios",
+    "selecao": "Argentina",
+    "sigla": "ARG",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Giovani Lo Celso",
+    "selecao": "Argentina",
+    "sigla": "ARG",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Giuliano Simeone",
+    "selecao": "Argentina",
+    "sigla": "ARG",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "José Manuel López",
+    "selecao": "Argentina",
+    "sigla": "ARG",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Julián Alvarez",
+    "selecao": "Argentina",
+    "sigla": "ARG",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Lautaro Martínez",
+    "selecao": "Argentina",
+    "sigla": "ARG",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Leandro Paredes",
+    "selecao": "Argentina",
+    "sigla": "ARG",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Lionel Messi",
+    "selecao": "Argentina",
+    "sigla": "ARG",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Nico Paz",
+    "selecao": "Argentina",
+    "sigla": "ARG",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Nicolás González",
+    "selecao": "Argentina",
+    "sigla": "ARG",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Rodrigo De Paul",
+    "selecao": "Argentina",
+    "sigla": "ARG",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Thiago Almada",
+    "selecao": "Argentina",
+    "sigla": "ARG",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Valentín Barco",
+    "selecao": "Argentina",
+    "sigla": "ARG",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Aiden O'Neill",
+    "selecao": "Austrália",
+    "sigla": "AUS",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ajdin Hrustic",
+    "selecao": "Austrália",
+    "sigla": "AUS",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Awer Mabil",
+    "selecao": "Austrália",
+    "sigla": "AUS",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Cammy Devlin",
+    "selecao": "Austrália",
+    "sigla": "AUS",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Connor Metcalfe",
+    "selecao": "Austrália",
+    "sigla": "AUS",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Cristian Volpato",
+    "selecao": "Austrália",
+    "sigla": "AUS",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Jackson Irvine",
+    "selecao": "Austrália",
+    "sigla": "AUS",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Mathew Leckie",
+    "selecao": "Austrália",
+    "sigla": "AUS",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Mohamed Touré",
+    "selecao": "Austrália",
+    "sigla": "AUS",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Nestory Irankunda",
+    "selecao": "Austrália",
+    "sigla": "AUS",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Nishan Velupillay",
+    "selecao": "Austrália",
+    "sigla": "AUS",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Paul Okon-Engstler",
+    "selecao": "Austrália",
+    "sigla": "AUS",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Tete Yengi",
+    "selecao": "Austrália",
+    "sigla": "AUS",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Alessandro Schöpf",
+    "selecao": "Áustria",
+    "sigla": "AUT",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Alexander Prass",
+    "selecao": "Áustria",
+    "sigla": "AUT",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Carney Chukwuemeka",
+    "selecao": "Áustria",
+    "sigla": "AUT",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Dejan Ljubičić",
+    "selecao": "Áustria",
+    "sigla": "AUT",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Florian Grillitsch",
+    "selecao": "Áustria",
+    "sigla": "AUT",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Konrad Laimer",
+    "selecao": "Áustria",
+    "sigla": "AUT",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Marcel Sabitzer",
+    "selecao": "Áustria",
+    "sigla": "AUT",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Marko Arnautović",
+    "selecao": "Áustria",
+    "sigla": "AUT",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Michael Gregoritsch",
+    "selecao": "Áustria",
+    "sigla": "AUT",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Nicolas Seiwald",
+    "selecao": "Áustria",
+    "sigla": "AUT",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Patrick Wimmer",
+    "selecao": "Áustria",
+    "sigla": "AUT",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Paul Wanner",
+    "selecao": "Áustria",
+    "sigla": "AUT",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Romano Schmid",
+    "selecao": "Áustria",
+    "sigla": "AUT",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Saša Kalajdžić",
+    "selecao": "Áustria",
+    "sigla": "AUT",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Xaver Schlager",
+    "selecao": "Áustria",
+    "sigla": "AUT",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Alexis Saelemaekers",
+    "selecao": "Bélgica",
+    "sigla": "BEL",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Amadou Onana",
+    "selecao": "Bélgica",
+    "sigla": "BEL",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Axel Witsel",
+    "selecao": "Bélgica",
+    "sigla": "BEL",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Charles De Ketelaere",
+    "selecao": "Bélgica",
+    "sigla": "BEL",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Diego Moreira",
+    "selecao": "Bélgica",
+    "sigla": "BEL",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Dodi Lukébakio",
+    "selecao": "Bélgica",
+    "sigla": "BEL",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Hans Vanaken",
+    "selecao": "Bélgica",
+    "sigla": "BEL",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Jérémy Doku",
+    "selecao": "Bélgica",
+    "sigla": "BEL",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Kevin De Bruyne",
+    "selecao": "Bélgica",
+    "sigla": "BEL",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Leandro Trossard",
+    "selecao": "Bélgica",
+    "sigla": "BEL",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Matias Fernandez-Pardo",
+    "selecao": "Bélgica",
+    "sigla": "BEL",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Nicolas Raskin",
+    "selecao": "Bélgica",
+    "sigla": "BEL",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Romelu Lukaku",
+    "selecao": "Bélgica",
+    "sigla": "BEL",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Youri Tielemans",
+    "selecao": "Bélgica",
+    "sigla": "BEL",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Amar Memić",
+    "selecao": "Bósnia e Herzegovina",
+    "sigla": "BIH",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Amir Hadžiahmetović",
+    "selecao": "Bósnia e Herzegovina",
+    "sigla": "BIH",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Armin Gigović",
+    "selecao": "Bósnia e Herzegovina",
+    "sigla": "BIH",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Benjamin Tahirović",
+    "selecao": "Bósnia e Herzegovina",
+    "sigla": "BIH",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Dženis Burnić",
+    "selecao": "Bósnia e Herzegovina",
+    "sigla": "BIH",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Edin Džeko",
+    "selecao": "Bósnia e Herzegovina",
+    "sigla": "BIH",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Ermedin Demirović",
+    "selecao": "Bósnia e Herzegovina",
+    "sigla": "BIH",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Ermin Mahmić",
+    "selecao": "Bósnia e Herzegovina",
+    "sigla": "BIH",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Esmir Bajraktarević",
+    "selecao": "Bósnia e Herzegovina",
+    "sigla": "BIH",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Haris Tabaković",
+    "selecao": "Bósnia e Herzegovina",
+    "sigla": "BIH",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Ivan Bašić",
+    "selecao": "Bósnia e Herzegovina",
+    "sigla": "BIH",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ivan Šunjić",
+    "selecao": "Bósnia e Herzegovina",
+    "sigla": "BIH",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Jovo Lukić",
+    "selecao": "Bósnia e Herzegovina",
+    "sigla": "BIH",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Kerim Alajbegović",
+    "selecao": "Bósnia e Herzegovina",
+    "sigla": "BIH",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Samed Baždar",
+    "selecao": "Bósnia e Herzegovina",
+    "sigla": "BIH",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Bruno Guimarães",
+    "selecao": "Brasil",
+    "sigla": "BRA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Casemiro",
+    "selecao": "Brasil",
+    "sigla": "BRA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Danilo Santos",
+    "selecao": "Brasil",
+    "sigla": "BRA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Éderson Silva",
+    "selecao": "Brasil",
+    "sigla": "BRA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Endrick",
+    "selecao": "Brasil",
+    "sigla": "BRA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Fabinho",
+    "selecao": "Brasil",
+    "sigla": "BRA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Gabriel Martinelli",
+    "selecao": "Brasil",
+    "sigla": "BRA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Igor Thiago",
+    "selecao": "Brasil",
+    "sigla": "BRA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Lucas Paquetá",
+    "selecao": "Brasil",
+    "sigla": "BRA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Luiz Henrique",
+    "selecao": "Brasil",
+    "sigla": "BRA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Matheus Cunha",
+    "selecao": "Brasil",
+    "sigla": "BRA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Neymar",
+    "selecao": "Brasil",
+    "sigla": "BRA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Raphinha",
+    "selecao": "Brasil",
+    "sigla": "BRA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Rayan",
+    "selecao": "Brasil",
+    "sigla": "BRA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Vinícius Júnior",
+    "selecao": "Brasil",
+    "sigla": "BRA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Dailon Livramento",
+    "selecao": "Cabo Verde",
+    "sigla": "CPV",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Deroy Duarte",
+    "selecao": "Cabo Verde",
+    "sigla": "CPV",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Garry Rodrigues",
+    "selecao": "Cabo Verde",
+    "sigla": "CPV",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Gilson Benchimol",
+    "selecao": "Cabo Verde",
+    "sigla": "CPV",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Hélio Varela",
+    "selecao": "Cabo Verde",
+    "sigla": "CPV",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Jamiro Monteiro",
+    "selecao": "Cabo Verde",
+    "sigla": "CPV",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "João Paulo",
+    "selecao": "Cabo Verde",
+    "sigla": "CPV",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Jovane Cabral",
+    "selecao": "Cabo Verde",
+    "sigla": "CPV",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Kevin Pina",
+    "selecao": "Cabo Verde",
+    "sigla": "CPV",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Laros Duarte",
+    "selecao": "Cabo Verde",
+    "sigla": "CPV",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Nuno da Costa",
+    "selecao": "Cabo Verde",
+    "sigla": "CPV",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ryan Mendes",
+    "selecao": "Cabo Verde",
+    "sigla": "CPV",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Telmo Arcanjo",
+    "selecao": "Cabo Verde",
+    "sigla": "CPV",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Willy Semedo",
+    "selecao": "Cabo Verde",
+    "sigla": "CPV",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Yannick Semedo",
+    "selecao": "Cabo Verde",
+    "sigla": "CPV",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ali Ahmed",
+    "selecao": "Canadá",
+    "sigla": "CAN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Cyle Larin",
+    "selecao": "Canadá",
+    "sigla": "CAN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Ismaël Koné",
+    "selecao": "Canadá",
+    "sigla": "CAN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Jacob Shaffelburg",
+    "selecao": "Canadá",
+    "sigla": "CAN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Jayden Nelson",
+    "selecao": "Canadá",
+    "sigla": "CAN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Jonathan David",
+    "selecao": "Canadá",
+    "sigla": "CAN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Jonathan Osorio",
+    "selecao": "Canadá",
+    "sigla": "CAN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Liam Millar",
+    "selecao": "Canadá",
+    "sigla": "CAN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Mathieu Choinière",
+    "selecao": "Canadá",
+    "sigla": "CAN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Nathan Saliba",
+    "selecao": "Canadá",
+    "sigla": "CAN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Promise David",
+    "selecao": "Canadá",
+    "sigla": "CAN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Stephen Eustáquio",
+    "selecao": "Canadá",
+    "sigla": "CAN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Tajon Buchanan",
+    "selecao": "Canadá",
+    "sigla": "CAN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Tani Oluwaseyi",
+    "selecao": "Canadá",
+    "sigla": "CAN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Abdulaziz Hatem",
+    "selecao": "Catar",
+    "sigla": "QAT",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ahmed Al-Ganehi",
+    "selecao": "Catar",
+    "sigla": "QAT",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ahmed Alaaeldin",
+    "selecao": "Catar",
+    "sigla": "QAT",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Ahmed Fathy",
+    "selecao": "Catar",
+    "sigla": "QAT",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Akram Afif",
+    "selecao": "Catar",
+    "sigla": "QAT",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Almoez Ali",
+    "selecao": "Catar",
+    "sigla": "QAT",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Assim Madibo",
+    "selecao": "Catar",
+    "sigla": "QAT",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Edmilson Junior",
+    "selecao": "Catar",
+    "sigla": "QAT",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Hassan Al-Haydos",
+    "selecao": "Catar",
+    "sigla": "QAT",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Karim Boudiaf",
+    "selecao": "Catar",
+    "sigla": "QAT",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Mohamed Manai",
+    "selecao": "Catar",
+    "sigla": "QAT",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Mohammed Muntari",
+    "selecao": "Catar",
+    "sigla": "QAT",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Tahsin Jamshid",
+    "selecao": "Catar",
+    "sigla": "QAT",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Yusuf Abdurisag",
+    "selecao": "Catar",
+    "sigla": "QAT",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Andrés Gómez",
+    "selecao": "Colômbia",
+    "sigla": "COL",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Cucho Hernández",
+    "selecao": "Colômbia",
+    "sigla": "COL",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "James Rodríguez",
+    "selecao": "Colômbia",
+    "sigla": "COL",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Jaminton Campaz",
+    "selecao": "Colômbia",
+    "sigla": "COL",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Jefferson Lerma",
+    "selecao": "Colômbia",
+    "sigla": "COL",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Jhon Arias",
+    "selecao": "Colômbia",
+    "sigla": "COL",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Jhon Córdoba",
+    "selecao": "Colômbia",
+    "sigla": "COL",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Jorge Carrascal",
+    "selecao": "Colômbia",
+    "sigla": "COL",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Juan Fernando Quintero",
+    "selecao": "Colômbia",
+    "sigla": "COL",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Juan Portilla",
+    "selecao": "Colômbia",
+    "sigla": "COL",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Kevin Castaño",
+    "selecao": "Colômbia",
+    "sigla": "COL",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Luis Díaz",
+    "selecao": "Colômbia",
+    "sigla": "COL",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Luis Suárez",
+    "selecao": "Colômbia",
+    "sigla": "COL",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Richard Ríos",
+    "selecao": "Colômbia",
+    "sigla": "COL",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Bae Jun-ho",
+    "selecao": "Coreia do Sul",
+    "sigla": "KOR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Cho Gue-sung",
+    "selecao": "Coreia do Sul",
+    "sigla": "KOR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Eom Ji-sung",
+    "selecao": "Coreia do Sul",
+    "sigla": "KOR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Hwang Hee-chan",
+    "selecao": "Coreia do Sul",
+    "sigla": "KOR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Hwang In-beom",
+    "selecao": "Coreia do Sul",
+    "sigla": "KOR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Kim Jin-gyu",
+    "selecao": "Coreia do Sul",
+    "sigla": "KOR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Lee Dong-gyeong",
+    "selecao": "Coreia do Sul",
+    "sigla": "KOR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Lee Gi-hyuk",
+    "selecao": "Coreia do Sul",
+    "sigla": "KOR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Lee Jae-sung",
+    "selecao": "Coreia do Sul",
+    "sigla": "KOR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Lee Kang-in",
+    "selecao": "Coreia do Sul",
+    "sigla": "KOR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Oh Hyeon-gyu",
+    "selecao": "Coreia do Sul",
+    "sigla": "KOR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Paik Seung-ho",
+    "selecao": "Coreia do Sul",
+    "sigla": "KOR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Son Heung-min",
+    "selecao": "Coreia do Sul",
+    "sigla": "KOR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Yang Hyun-jun",
+    "selecao": "Coreia do Sul",
+    "sigla": "KOR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Amad Diallo",
+    "selecao": "Costa do Marfim",
+    "sigla": "CIV",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Ange-Yoan Bonny",
+    "selecao": "Costa do Marfim",
+    "sigla": "CIV",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Bazoumana Touré",
+    "selecao": "Costa do Marfim",
+    "sigla": "CIV",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Christ Inao Oulaï",
+    "selecao": "Costa do Marfim",
+    "sigla": "CIV",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Elye Wahi",
+    "selecao": "Costa do Marfim",
+    "sigla": "CIV",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Evann Guessand",
+    "selecao": "Costa do Marfim",
+    "sigla": "CIV",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Franck Kessié",
+    "selecao": "Costa do Marfim",
+    "sigla": "CIV",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ibrahim Sangaré",
+    "selecao": "Costa do Marfim",
+    "sigla": "CIV",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Jean Michaël Seri",
+    "selecao": "Costa do Marfim",
+    "sigla": "CIV",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Nicolas Pépé",
+    "selecao": "Costa do Marfim",
+    "sigla": "CIV",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Oumar Diakité",
+    "selecao": "Costa do Marfim",
+    "sigla": "CIV",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Parfait Guiagon",
+    "selecao": "Costa do Marfim",
+    "sigla": "CIV",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Seko Fofana",
+    "selecao": "Costa do Marfim",
+    "sigla": "CIV",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Simon Adingra",
+    "selecao": "Costa do Marfim",
+    "sigla": "CIV",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Yan Diomande",
+    "selecao": "Costa do Marfim",
+    "sigla": "CIV",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Andrej Kramarić",
+    "selecao": "Croácia",
+    "sigla": "CRO",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Ante Budimir",
+    "selecao": "Croácia",
+    "sigla": "CRO",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Igor Matanović",
+    "selecao": "Croácia",
+    "sigla": "CRO",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Ivan Perišić",
+    "selecao": "Croácia",
+    "sigla": "CRO",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Luka Modrić",
+    "selecao": "Croácia",
+    "sigla": "CRO",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Luka Sučić",
+    "selecao": "Croácia",
+    "sigla": "CRO",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Marco Pašalić",
+    "selecao": "Croácia",
+    "sigla": "CRO",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Mario Pašalić",
+    "selecao": "Croácia",
+    "sigla": "CRO",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Martin Baturina",
+    "selecao": "Croácia",
+    "sigla": "CRO",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Mateo Kovačić",
+    "selecao": "Croácia",
+    "sigla": "CRO",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Nikola Moro",
+    "selecao": "Croácia",
+    "sigla": "CRO",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Nikola Vlašić",
+    "selecao": "Croácia",
+    "sigla": "CRO",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Petar Musa",
+    "selecao": "Croácia",
+    "sigla": "CRO",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Petar Sučić",
+    "selecao": "Croácia",
+    "sigla": "CRO",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Toni Fruk",
+    "selecao": "Croácia",
+    "sigla": "CRO",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ar'jany Martha",
+    "selecao": "Curaçau",
+    "sigla": "CUW",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Brandley Kuwas",
+    "selecao": "Curaçau",
+    "sigla": "CUW",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Gervane Kastaneer",
+    "selecao": "Curaçau",
+    "sigla": "CUW",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Godfried Roemeratoe",
+    "selecao": "Curaçau",
+    "sigla": "CUW",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Jearl Margaritha",
+    "selecao": "Curaçau",
+    "sigla": "CUW",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Jeremy Antonisse",
+    "selecao": "Curaçau",
+    "sigla": "CUW",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Juninho Bacuna",
+    "selecao": "Curaçau",
+    "sigla": "CUW",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Jürgen Locadia",
+    "selecao": "Curaçau",
+    "sigla": "CUW",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Kenji Gorré",
+    "selecao": "Curaçau",
+    "sigla": "CUW",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Kevin Felida",
+    "selecao": "Curaçau",
+    "sigla": "CUW",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Leandro Bacuna",
+    "selecao": "Curaçau",
+    "sigla": "CUW",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Livano Comenencia",
+    "selecao": "Curaçau",
+    "sigla": "CUW",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Sontje Hansen",
+    "selecao": "Curaçau",
+    "sigla": "CUW",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Tahith Chong",
+    "selecao": "Curaçau",
+    "sigla": "CUW",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Tyrese Noslin",
+    "selecao": "Curaçau",
+    "sigla": "CUW",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Emam Ashour",
+    "selecao": "Egito",
+    "sigla": "EGY",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Haissem Hassan",
+    "selecao": "Egito",
+    "sigla": "EGY",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Hamdy Fathy",
+    "selecao": "Egito",
+    "sigla": "EGY",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Hamza Abdelkarim",
+    "selecao": "Egito",
+    "sigla": "EGY",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Ibrahim Adel",
+    "selecao": "Egito",
+    "sigla": "EGY",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Mahmoud Saber",
+    "selecao": "Egito",
+    "sigla": "EGY",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Marwan Attia",
+    "selecao": "Egito",
+    "sigla": "EGY",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Mohamed Salah",
+    "selecao": "Egito",
+    "sigla": "EGY",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Mohanad Lasheen",
+    "selecao": "Egito",
+    "sigla": "EGY",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Mostafa Ziko",
+    "selecao": "Egito",
+    "sigla": "EGY",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Nabil Emad",
+    "selecao": "Egito",
+    "sigla": "EGY",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Omar Marmoush",
+    "selecao": "Egito",
+    "sigla": "EGY",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Trézéguet",
+    "selecao": "Egito",
+    "sigla": "EGY",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Zizo",
+    "selecao": "Egito",
+    "sigla": "EGY",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Alan Franco",
+    "selecao": "Equador",
+    "sigla": "ECU",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Alan Minda",
+    "selecao": "Equador",
+    "sigla": "ECU",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Anthony Valencia",
+    "selecao": "Equador",
+    "sigla": "ECU",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Denil Castillo",
+    "selecao": "Equador",
+    "sigla": "ECU",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Enner Valencia",
+    "selecao": "Equador",
+    "sigla": "ECU",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Gonzalo Plata",
+    "selecao": "Equador",
+    "sigla": "ECU",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Jeremy Arévalo",
+    "selecao": "Equador",
+    "sigla": "ECU",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "John Yeboah",
+    "selecao": "Equador",
+    "sigla": "ECU",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Jordy Alcívar",
+    "selecao": "Equador",
+    "sigla": "ECU",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Jordy Caicedo",
+    "selecao": "Equador",
+    "sigla": "ECU",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Kendry Páez",
+    "selecao": "Equador",
+    "sigla": "ECU",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Kevin Rodríguez",
+    "selecao": "Equador",
+    "sigla": "ECU",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Moisés Caicedo",
+    "selecao": "Equador",
+    "sigla": "ECU",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Nilson Angulo",
+    "selecao": "Equador",
+    "sigla": "ECU",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Pedro Vite",
+    "selecao": "Equador",
+    "sigla": "ECU",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ben Gannon-Doak",
+    "selecao": "Escócia",
+    "sigla": "SCO",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Ché Adams",
+    "selecao": "Escócia",
+    "sigla": "SCO",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Findlay Curtis",
+    "selecao": "Escócia",
+    "sigla": "SCO",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "George Hirst",
+    "selecao": "Escócia",
+    "sigla": "SCO",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "John McGinn",
+    "selecao": "Escócia",
+    "sigla": "SCO",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Kenny McLean",
+    "selecao": "Escócia",
+    "sigla": "SCO",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Lawrence Shankland",
+    "selecao": "Escócia",
+    "sigla": "SCO",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Lewis Ferguson",
+    "selecao": "Escócia",
+    "sigla": "SCO",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Lyndon Dykes",
+    "selecao": "Escócia",
+    "sigla": "SCO",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Ross Stewart",
+    "selecao": "Escócia",
+    "sigla": "SCO",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Ryan Christie",
+    "selecao": "Escócia",
+    "sigla": "SCO",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Scott McTominay",
+    "selecao": "Escócia",
+    "sigla": "SCO",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Tyler Fletcher",
+    "selecao": "Escócia",
+    "sigla": "SCO",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Álex Baena",
+    "selecao": "Espanha",
+    "sigla": "ESP",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Borja Iglesias",
+    "selecao": "Espanha",
+    "sigla": "ESP",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Dani Olmo",
+    "selecao": "Espanha",
+    "sigla": "ESP",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Fabián Ruiz",
+    "selecao": "Espanha",
+    "sigla": "ESP",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ferran Torres",
+    "selecao": "Espanha",
+    "sigla": "ESP",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Gavi",
+    "selecao": "Espanha",
+    "sigla": "ESP",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Lamine Yamal",
+    "selecao": "Espanha",
+    "sigla": "ESP",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Martín Zubimendi",
+    "selecao": "Espanha",
+    "sigla": "ESP",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Mikel Merino",
+    "selecao": "Espanha",
+    "sigla": "ESP",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Mikel Oyarzabal",
+    "selecao": "Espanha",
+    "sigla": "ESP",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Nico Williams",
+    "selecao": "Espanha",
+    "sigla": "ESP",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Pedri",
+    "selecao": "Espanha",
+    "sigla": "ESP",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Rodri",
+    "selecao": "Espanha",
+    "sigla": "ESP",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Víctor Muñoz",
+    "selecao": "Espanha",
+    "sigla": "ESP",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Yéremy Pino",
+    "selecao": "Espanha",
+    "sigla": "ESP",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Alejandro Zendejas",
+    "selecao": "Estados Unidos",
+    "sigla": "USA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Brenden Aaronson",
+    "selecao": "Estados Unidos",
+    "sigla": "USA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Christian Pulisic",
+    "selecao": "Estados Unidos",
+    "sigla": "USA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Cristian Roldan",
+    "selecao": "Estados Unidos",
+    "sigla": "USA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Folarin Balogun",
+    "selecao": "Estados Unidos",
+    "sigla": "USA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Giovanni Reyna",
+    "selecao": "Estados Unidos",
+    "sigla": "USA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Haji Wright",
+    "selecao": "Estados Unidos",
+    "sigla": "USA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Malik Tillman",
+    "selecao": "Estados Unidos",
+    "sigla": "USA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ricardo Pepi",
+    "selecao": "Estados Unidos",
+    "sigla": "USA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Sebastian Berhalter",
+    "selecao": "Estados Unidos",
+    "sigla": "USA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Timothy Weah",
+    "selecao": "Estados Unidos",
+    "sigla": "USA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Tyler Adams",
+    "selecao": "Estados Unidos",
+    "sigla": "USA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Weston McKennie",
+    "selecao": "Estados Unidos",
+    "sigla": "USA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Adrien Rabiot",
+    "selecao": "França",
+    "sigla": "FRA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Aurélien Tchouaméni",
+    "selecao": "França",
+    "sigla": "FRA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Bradley Barcola",
+    "selecao": "França",
+    "sigla": "FRA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Désiré Doué",
+    "selecao": "França",
+    "sigla": "FRA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Jean-Philippe Mateta",
+    "selecao": "França",
+    "sigla": "FRA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Kylian Mbappé",
+    "selecao": "França",
+    "sigla": "FRA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Maghnes Akliouche",
+    "selecao": "França",
+    "sigla": "FRA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Manu Koné",
+    "selecao": "França",
+    "sigla": "FRA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Marcus Thuram",
+    "selecao": "França",
+    "sigla": "FRA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Michael Olise",
+    "selecao": "França",
+    "sigla": "FRA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "N'Golo Kanté",
+    "selecao": "França",
+    "sigla": "FRA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ousmane Dembélé",
+    "selecao": "França",
+    "sigla": "FRA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Rayan Cherki",
+    "selecao": "França",
+    "sigla": "FRA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Warren Zaïre-Emery",
+    "selecao": "França",
+    "sigla": "FRA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Abdul Fatawu",
+    "selecao": "Gana",
+    "sigla": "GHA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Antoine Semenyo",
+    "selecao": "Gana",
+    "sigla": "GHA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Augustine Boakye",
+    "selecao": "Gana",
+    "sigla": "GHA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Brandon Thomas-Asante",
+    "selecao": "Gana",
+    "sigla": "GHA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Caleb Yirenkyi",
+    "selecao": "Gana",
+    "sigla": "GHA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Christopher Bonsu Baah",
+    "selecao": "Gana",
+    "sigla": "GHA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Elisha Owusu",
+    "selecao": "Gana",
+    "sigla": "GHA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ernest Nuamah",
+    "selecao": "Gana",
+    "sigla": "GHA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Iñaki Williams",
+    "selecao": "Gana",
+    "sigla": "GHA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Jordan Ayew",
+    "selecao": "Gana",
+    "sigla": "GHA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Kamaldeen Sulemana",
+    "selecao": "Gana",
+    "sigla": "GHA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Kwasi Sibo",
+    "selecao": "Gana",
+    "sigla": "GHA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Prince Kwabena Adu",
+    "selecao": "Gana",
+    "sigla": "GHA",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Thomas Partey",
+    "selecao": "Gana",
+    "sigla": "GHA",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Carl Sainté",
+    "selecao": "Haiti",
+    "sigla": "HAI",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Danley Jean Jacques",
+    "selecao": "Haiti",
+    "sigla": "HAI",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Derrick Etienne Jr.",
+    "selecao": "Haiti",
+    "sigla": "HAI",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Dominique Simon",
+    "selecao": "Haiti",
+    "sigla": "HAI",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Duckens Nazon",
+    "selecao": "Haiti",
+    "sigla": "HAI",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Frantzdy Pierrot",
+    "selecao": "Haiti",
+    "sigla": "HAI",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Jean-Ricner Bellegarde",
+    "selecao": "Haiti",
+    "sigla": "HAI",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Josué Casimir",
+    "selecao": "Haiti",
+    "sigla": "HAI",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Lenny Joseph",
+    "selecao": "Haiti",
+    "sigla": "HAI",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Leverton Pierre",
+    "selecao": "Haiti",
+    "sigla": "HAI",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Louicius Deedson",
+    "selecao": "Haiti",
+    "sigla": "HAI",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Ruben Providence",
+    "selecao": "Haiti",
+    "sigla": "HAI",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Wilson Isidor",
+    "selecao": "Haiti",
+    "sigla": "HAI",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Woodensky Pierre",
+    "selecao": "Haiti",
+    "sigla": "HAI",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Yassin Fortuné",
+    "selecao": "Haiti",
+    "sigla": "HAI",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Brian Brobbey",
+    "selecao": "Holanda",
+    "sigla": "NED",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Cody Gakpo",
+    "selecao": "Holanda",
+    "sigla": "NED",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Crysencio Summerville",
+    "selecao": "Holanda",
+    "sigla": "NED",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Donyell Malen",
+    "selecao": "Holanda",
+    "sigla": "NED",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Frenkie de Jong",
+    "selecao": "Holanda",
+    "sigla": "NED",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Guus Til",
+    "selecao": "Holanda",
+    "sigla": "NED",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Justin Kluivert",
+    "selecao": "Holanda",
+    "sigla": "NED",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Marten de Roon",
+    "selecao": "Holanda",
+    "sigla": "NED",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Memphis Depay",
+    "selecao": "Holanda",
+    "sigla": "NED",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Noa Lang",
+    "selecao": "Holanda",
+    "sigla": "NED",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Quinten Timber",
+    "selecao": "Holanda",
+    "sigla": "NED",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ryan Gravenberch",
+    "selecao": "Holanda",
+    "sigla": "NED",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Teun Koopmeiners",
+    "selecao": "Holanda",
+    "sigla": "NED",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Tijjani Reijnders",
+    "selecao": "Holanda",
+    "sigla": "NED",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Wout Weghorst",
+    "selecao": "Holanda",
+    "sigla": "NED",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Anthony Gordon",
+    "selecao": "Inglaterra",
+    "sigla": "ENG",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Bukayo Saka",
+    "selecao": "Inglaterra",
+    "sigla": "ENG",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Declan Rice",
+    "selecao": "Inglaterra",
+    "sigla": "ENG",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Eberechi Eze",
+    "selecao": "Inglaterra",
+    "sigla": "ENG",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Elliot Anderson",
+    "selecao": "Inglaterra",
+    "sigla": "ENG",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Harry Kane",
+    "selecao": "Inglaterra",
+    "sigla": "ENG",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Ivan Toney",
+    "selecao": "Inglaterra",
+    "sigla": "ENG",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Jordan Henderson",
+    "selecao": "Inglaterra",
+    "sigla": "ENG",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Jude Bellingham",
+    "selecao": "Inglaterra",
+    "sigla": "ENG",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Kobbie Mainoo",
+    "selecao": "Inglaterra",
+    "sigla": "ENG",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Marcus Rashford",
+    "selecao": "Inglaterra",
+    "sigla": "ENG",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Morgan Rogers",
+    "selecao": "Inglaterra",
+    "sigla": "ENG",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Noni Madueke",
+    "selecao": "Inglaterra",
+    "sigla": "ENG",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Ollie Watkins",
+    "selecao": "Inglaterra",
+    "sigla": "ENG",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Ali Alipour",
+    "selecao": "Irã",
+    "sigla": "IRN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Alireza Jahanbakhsh",
+    "selecao": "Irã",
+    "sigla": "IRN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Amirhossein Hosseinzadeh",
+    "selecao": "Irã",
+    "sigla": "IRN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Amirmohammad Razzaghinia",
+    "selecao": "Irã",
+    "sigla": "IRN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Dennis Eckert",
+    "selecao": "Irã",
+    "sigla": "IRN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Mehdi Ghayedi",
+    "selecao": "Irã",
+    "sigla": "IRN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Mehdi Taremi",
+    "selecao": "Irã",
+    "sigla": "IRN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Mehdi Torabi",
+    "selecao": "Irã",
+    "sigla": "IRN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Mohammad Ghorbani",
+    "selecao": "Irã",
+    "sigla": "IRN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Mohammad Mohebi",
+    "selecao": "Irã",
+    "sigla": "IRN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Rouzbeh Cheshmi",
+    "selecao": "Irã",
+    "sigla": "IRN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Saeid Ezatolahi",
+    "selecao": "Irã",
+    "sigla": "IRN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Saman Ghoddos",
+    "selecao": "Irã",
+    "sigla": "IRN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Shahriyar Moghanlou",
+    "selecao": "Irã",
+    "sigla": "IRN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Ahmed Qasem",
+    "selecao": "Iraque",
+    "sigla": "IRQ",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Aimar Sher",
+    "selecao": "Iraque",
+    "sigla": "IRQ",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ali Al-Hamadi",
+    "selecao": "Iraque",
+    "sigla": "IRQ",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Ali Jasim",
+    "selecao": "Iraque",
+    "sigla": "IRQ",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Ali Yousif",
+    "selecao": "Iraque",
+    "sigla": "IRQ",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Amir Al-Ammari",
+    "selecao": "Iraque",
+    "sigla": "IRQ",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Aymen Hussein",
+    "selecao": "Iraque",
+    "sigla": "IRQ",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Ibrahim Bayesh",
+    "selecao": "Iraque",
+    "sigla": "IRQ",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Kevin Yakob",
+    "selecao": "Iraque",
+    "sigla": "IRQ",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Marko Farji",
+    "selecao": "Iraque",
+    "sigla": "IRQ",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Mohanad Ali",
+    "selecao": "Iraque",
+    "sigla": "IRQ",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Youssef Amyn",
+    "selecao": "Iraque",
+    "sigla": "IRQ",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Zaid Ismail",
+    "selecao": "Iraque",
+    "sigla": "IRQ",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Zidane Iqbal",
+    "selecao": "Iraque",
+    "sigla": "IRQ",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ao Tanaka",
+    "selecao": "Japão",
+    "sigla": "JPN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ayase Ueda",
+    "selecao": "Japão",
+    "sigla": "JPN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Daichi Kamada",
+    "selecao": "Japão",
+    "sigla": "JPN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Daizen Maeda",
+    "selecao": "Japão",
+    "sigla": "JPN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Junya Itō",
+    "selecao": "Japão",
+    "sigla": "JPN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Kaishū Sano",
+    "selecao": "Japão",
+    "sigla": "JPN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Keisuke Gotō",
+    "selecao": "Japão",
+    "sigla": "JPN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Keito Nakamura",
+    "selecao": "Japão",
+    "sigla": "JPN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Kento Shiogai",
+    "selecao": "Japão",
+    "sigla": "JPN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Kōki Ogawa",
+    "selecao": "Japão",
+    "sigla": "JPN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Ritsu Dōan",
+    "selecao": "Japão",
+    "sigla": "JPN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Takefusa Kubo",
+    "selecao": "Japão",
+    "sigla": "JPN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Wataru Endo",
+    "selecao": "Japão",
+    "sigla": "JPN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Yuito Suzuki",
+    "selecao": "Japão",
+    "sigla": "JPN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ali Azaizeh",
+    "selecao": "Jordânia",
+    "sigla": "JOR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Ali Olwan",
+    "selecao": "Jordânia",
+    "sigla": "JOR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Amer Jamous",
+    "selecao": "Jordânia",
+    "sigla": "JOR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ibrahim Sadeh",
+    "selecao": "Jordânia",
+    "sigla": "JOR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Mahmoud Al-Mardi",
+    "selecao": "Jordânia",
+    "sigla": "JOR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Mohammad Abu Zrayq",
+    "selecao": "Jordânia",
+    "sigla": "JOR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Mohammad Al-Dawoud",
+    "selecao": "Jordânia",
+    "sigla": "JOR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Mohannad Abu Taha",
+    "selecao": "Jordânia",
+    "sigla": "JOR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Musa Al-Taamari",
+    "selecao": "Jordânia",
+    "sigla": "JOR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Nizar Al-Rashdan",
+    "selecao": "Jordânia",
+    "sigla": "JOR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Noor Al-Rawabdeh",
+    "selecao": "Jordânia",
+    "sigla": "JOR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Odeh Al-Fakhouri",
+    "selecao": "Jordânia",
+    "sigla": "JOR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Rajaei Ayed",
+    "selecao": "Jordânia",
+    "sigla": "JOR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Amine Sbaï",
+    "selecao": "Marrocos",
+    "sigla": "MAR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Ayoub El Kaabi",
+    "selecao": "Marrocos",
+    "sigla": "MAR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Ayoube Amaimouni",
+    "selecao": "Marrocos",
+    "sigla": "MAR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Ayyoub Bouaddi",
+    "selecao": "Marrocos",
+    "sigla": "MAR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Azzedine Ounahi",
+    "selecao": "Marrocos",
+    "sigla": "MAR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Bilal El Khannouss",
+    "selecao": "Marrocos",
+    "sigla": "MAR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Brahim Díaz",
+    "selecao": "Marrocos",
+    "sigla": "MAR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Chemsdine Talbi",
+    "selecao": "Marrocos",
+    "sigla": "MAR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Gessime Yassine",
+    "selecao": "Marrocos",
+    "sigla": "MAR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ismael Saibari",
+    "selecao": "Marrocos",
+    "sigla": "MAR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Neil El Aynaoui",
+    "selecao": "Marrocos",
+    "sigla": "MAR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Samir El Mourabet",
+    "selecao": "Marrocos",
+    "sigla": "MAR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Sofyan Amrabat",
+    "selecao": "Marrocos",
+    "sigla": "MAR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Soufiane Rahimi",
+    "selecao": "Marrocos",
+    "sigla": "MAR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Alexis Vega",
+    "selecao": "México",
+    "sigla": "MEX",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Álvaro Fidalgo",
+    "selecao": "México",
+    "sigla": "MEX",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Armando González",
+    "selecao": "México",
+    "sigla": "MEX",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Brian Gutiérrez",
+    "selecao": "México",
+    "sigla": "MEX",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "César Huerta",
+    "selecao": "México",
+    "sigla": "MEX",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Érik Lira",
+    "selecao": "México",
+    "sigla": "MEX",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Gilberto Mora",
+    "selecao": "México",
+    "sigla": "MEX",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Guillermo Martínez",
+    "selecao": "México",
+    "sigla": "MEX",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Julián Quiñones",
+    "selecao": "México",
+    "sigla": "MEX",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Luis Chávez",
+    "selecao": "México",
+    "sigla": "MEX",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Luis Romo",
+    "selecao": "México",
+    "sigla": "MEX",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Obed Vargas",
+    "selecao": "México",
+    "sigla": "MEX",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Orbelín Pineda",
+    "selecao": "México",
+    "sigla": "MEX",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Raúl Jiménez",
+    "selecao": "México",
+    "sigla": "MEX",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Roberto Alvarado",
+    "selecao": "México",
+    "sigla": "MEX",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Santiago Giménez",
+    "selecao": "México",
+    "sigla": "MEX",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Alexander Sørloth",
+    "selecao": "Noruega",
+    "sigla": "NOR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Andreas Schjelderup",
+    "selecao": "Noruega",
+    "sigla": "NOR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Antonio Nusa",
+    "selecao": "Noruega",
+    "sigla": "NOR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Erling Haaland",
+    "selecao": "Noruega",
+    "sigla": "NOR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Fredrik Aursnes",
+    "selecao": "Noruega",
+    "sigla": "NOR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Jens Petter Hauge",
+    "selecao": "Noruega",
+    "sigla": "NOR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Jørgen Strand Larsen",
+    "selecao": "Noruega",
+    "sigla": "NOR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Julian Ryerson",
+    "selecao": "Noruega",
+    "sigla": "NOR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Kristian Thorstvedt",
+    "selecao": "Noruega",
+    "sigla": "NOR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Martin Ødegaard",
+    "selecao": "Noruega",
+    "sigla": "NOR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Morten Thorsby",
+    "selecao": "Noruega",
+    "sigla": "NOR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Oscar Bobb",
+    "selecao": "Noruega",
+    "sigla": "NOR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Patrick Berg",
+    "selecao": "Noruega",
+    "sigla": "NOR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Sander Berge",
+    "selecao": "Noruega",
+    "sigla": "NOR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Thelo Aasgaard",
+    "selecao": "Noruega",
+    "sigla": "NOR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Alex Rufer",
+    "selecao": "Nova Zelândia",
+    "sigla": "NZL",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ben Old",
+    "selecao": "Nova Zelândia",
+    "sigla": "NZL",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ben Waine",
+    "selecao": "Nova Zelândia",
+    "sigla": "NZL",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Callum McCowatt",
+    "selecao": "Nova Zelândia",
+    "sigla": "NZL",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Chris Wood",
+    "selecao": "Nova Zelândia",
+    "sigla": "NZL",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Elijah Just",
+    "selecao": "Nova Zelândia",
+    "sigla": "NZL",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Jesse Randall",
+    "selecao": "Nova Zelândia",
+    "sigla": "NZL",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Joe Bell",
+    "selecao": "Nova Zelândia",
+    "sigla": "NZL",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Kosta Barbarouses",
+    "selecao": "Nova Zelândia",
+    "sigla": "NZL",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Lachlan Bayliss",
+    "selecao": "Nova Zelândia",
+    "sigla": "NZL",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Marko Stamenić",
+    "selecao": "Nova Zelândia",
+    "sigla": "NZL",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Matthew Garbett",
+    "selecao": "Nova Zelândia",
+    "sigla": "NZL",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ryan Thomas",
+    "selecao": "Nova Zelândia",
+    "sigla": "NZL",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Sarpreet Singh",
+    "selecao": "Nova Zelândia",
+    "sigla": "NZL",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Adalberto Carrasquilla",
+    "selecao": "Panamá",
+    "sigla": "PAN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Alberto Quintero",
+    "selecao": "Panamá",
+    "sigla": "PAN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Aníbal Godoy",
+    "selecao": "Panamá",
+    "sigla": "PAN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Azarias Londoño",
+    "selecao": "Panamá",
+    "sigla": "PAN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Cecilio Waterman",
+    "selecao": "Panamá",
+    "sigla": "PAN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "César Yanis",
+    "selecao": "Panamá",
+    "sigla": "PAN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Cristian Martínez",
+    "selecao": "Panamá",
+    "sigla": "PAN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ismael Díaz",
+    "selecao": "Panamá",
+    "sigla": "PAN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "José Fajardo",
+    "selecao": "Panamá",
+    "sigla": "PAN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "José Luis Rodríguez",
+    "selecao": "Panamá",
+    "sigla": "PAN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Tomás Rodríguez",
+    "selecao": "Panamá",
+    "sigla": "PAN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Yoel Bárcenas",
+    "selecao": "Panamá",
+    "sigla": "PAN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Álex Arce",
+    "selecao": "Paraguai",
+    "sigla": "PAR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Andrés Cubas",
+    "selecao": "Paraguai",
+    "sigla": "PAR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Antonio Sanabria",
+    "selecao": "Paraguai",
+    "sigla": "PAR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Braian Ojeda",
+    "selecao": "Paraguai",
+    "sigla": "PAR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Damián Bobadilla",
+    "selecao": "Paraguai",
+    "sigla": "PAR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Diego Gómez",
+    "selecao": "Paraguai",
+    "sigla": "PAR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Gabriel Ávalos",
+    "selecao": "Paraguai",
+    "sigla": "PAR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Gustavo Caballero",
+    "selecao": "Paraguai",
+    "sigla": "PAR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Isidro Pitta",
+    "selecao": "Paraguai",
+    "sigla": "PAR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Julio Enciso",
+    "selecao": "Paraguai",
+    "sigla": "PAR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Kaku",
+    "selecao": "Paraguai",
+    "sigla": "PAR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Matías Galarza",
+    "selecao": "Paraguai",
+    "sigla": "PAR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Maurício",
+    "selecao": "Paraguai",
+    "sigla": "PAR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Miguel Almirón",
+    "selecao": "Paraguai",
+    "sigla": "PAR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ramón Sosa",
+    "selecao": "Paraguai",
+    "sigla": "PAR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Bernardo Silva",
+    "selecao": "Portugal",
+    "sigla": "POR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Bruno Fernandes",
+    "selecao": "Portugal",
+    "sigla": "POR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Cristiano Ronaldo",
+    "selecao": "Portugal",
+    "sigla": "POR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Francisco Conceição",
+    "selecao": "Portugal",
+    "sigla": "POR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Francisco Trincão",
+    "selecao": "Portugal",
+    "sigla": "POR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Gonçalo Guedes",
+    "selecao": "Portugal",
+    "sigla": "POR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Gonçalo Ramos",
+    "selecao": "Portugal",
+    "sigla": "POR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "João Félix",
+    "selecao": "Portugal",
+    "sigla": "POR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "João Neves",
+    "selecao": "Portugal",
+    "sigla": "POR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Matheus Nunes",
+    "selecao": "Portugal",
+    "sigla": "POR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Pedro Neto",
+    "selecao": "Portugal",
+    "sigla": "POR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Rafael Leão",
+    "selecao": "Portugal",
+    "sigla": "POR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Rúben Neves",
+    "selecao": "Portugal",
+    "sigla": "POR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Vitinha",
+    "selecao": "Portugal",
+    "sigla": "POR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Aaron Tshibola",
+    "selecao": "RD do Congo",
+    "sigla": "COD",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Brian Cipenga",
+    "selecao": "RD do Congo",
+    "sigla": "COD",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Cédric Bakambu",
+    "selecao": "RD do Congo",
+    "sigla": "COD",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Charles Pickel",
+    "selecao": "RD do Congo",
+    "sigla": "COD",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Edo Kayembe",
+    "selecao": "RD do Congo",
+    "sigla": "COD",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Fiston Mayele",
+    "selecao": "RD do Congo",
+    "sigla": "COD",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Gaël Kakuta",
+    "selecao": "RD do Congo",
+    "sigla": "COD",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Meschak Elia",
+    "selecao": "RD do Congo",
+    "sigla": "COD",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Nathanaël Mbuku",
+    "selecao": "RD do Congo",
+    "sigla": "COD",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ngal'ayel Mukau",
+    "selecao": "RD do Congo",
+    "sigla": "COD",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Noah Sadiki",
+    "selecao": "RD do Congo",
+    "sigla": "COD",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Samuel Moutoussamy",
+    "selecao": "RD do Congo",
+    "sigla": "COD",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Simon Banza",
+    "selecao": "RD do Congo",
+    "sigla": "COD",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Théo Bongonda",
+    "selecao": "RD do Congo",
+    "sigla": "COD",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Yoane Wissa",
+    "selecao": "RD do Congo",
+    "sigla": "COD",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Adam Hložek",
+    "selecao": "República Tcheca",
+    "sigla": "CZE",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Alexandr Sojka",
+    "selecao": "República Tcheca",
+    "sigla": "CZE",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Denis Višinský",
+    "selecao": "República Tcheca",
+    "sigla": "CZE",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Hugo Sochůrek",
+    "selecao": "República Tcheca",
+    "sigla": "CZE",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Jan Kuchta",
+    "selecao": "República Tcheca",
+    "sigla": "CZE",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Lukáš Červ",
+    "selecao": "República Tcheca",
+    "sigla": "CZE",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Lukáš Provod",
+    "selecao": "República Tcheca",
+    "sigla": "CZE",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Michal Sadílek",
+    "selecao": "República Tcheca",
+    "sigla": "CZE",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Mojmír Chytil",
+    "selecao": "República Tcheca",
+    "sigla": "CZE",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Patrik Schick",
+    "selecao": "República Tcheca",
+    "sigla": "CZE",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Pavel Šulc",
+    "selecao": "República Tcheca",
+    "sigla": "CZE",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Tomáš Chorý",
+    "selecao": "República Tcheca",
+    "sigla": "CZE",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Tomáš Souček",
+    "selecao": "República Tcheca",
+    "sigla": "CZE",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Vladimír Darida",
+    "selecao": "República Tcheca",
+    "sigla": "CZE",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Assane Diao",
+    "selecao": "Senegal",
+    "sigla": "SEN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Bamba Dieng",
+    "selecao": "Senegal",
+    "sigla": "SEN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Bara Sapoko Ndiaye",
+    "selecao": "Senegal",
+    "sigla": "SEN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Cherif Ndiaye",
+    "selecao": "Senegal",
+    "sigla": "SEN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Habib Diarra",
+    "selecao": "Senegal",
+    "sigla": "SEN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ibrahim Mbaye",
+    "selecao": "Senegal",
+    "sigla": "SEN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Idrissa Gueye",
+    "selecao": "Senegal",
+    "sigla": "SEN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Iliman Ndiaye",
+    "selecao": "Senegal",
+    "sigla": "SEN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Ismaïla Sarr",
+    "selecao": "Senegal",
+    "sigla": "SEN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Lamine Camara",
+    "selecao": "Senegal",
+    "sigla": "SEN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Nicolas Jackson",
+    "selecao": "Senegal",
+    "sigla": "SEN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Pape Gueye",
+    "selecao": "Senegal",
+    "sigla": "SEN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Pape Matar Sarr",
+    "selecao": "Senegal",
+    "sigla": "SEN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Pathé Ciss",
+    "selecao": "Senegal",
+    "sigla": "SEN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Sadio Mané",
+    "selecao": "Senegal",
+    "sigla": "SEN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Alexander Isak",
+    "selecao": "Suécia",
+    "sigla": "SWE",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Anthony Elanga",
+    "selecao": "Suécia",
+    "sigla": "SWE",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Benjamin Nygren",
+    "selecao": "Suécia",
+    "sigla": "SWE",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Besfort Zeneli",
+    "selecao": "Suécia",
+    "sigla": "SWE",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Gustaf Nilsson",
+    "selecao": "Suécia",
+    "sigla": "SWE",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Jesper Karlström",
+    "selecao": "Suécia",
+    "sigla": "SWE",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ken Sema",
+    "selecao": "Suécia",
+    "sigla": "SWE",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Lucas Bergvall",
+    "selecao": "Suécia",
+    "sigla": "SWE",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Mattias Svanberg",
+    "selecao": "Suécia",
+    "sigla": "SWE",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Taha Ali",
+    "selecao": "Suécia",
+    "sigla": "SWE",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Viktor Gyökeres",
+    "selecao": "Suécia",
+    "sigla": "SWE",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Yasin Ayari",
+    "selecao": "Suécia",
+    "sigla": "SWE",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Ardon Jashari",
+    "selecao": "Suíça",
+    "sigla": "SUI",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Breel Embolo",
+    "selecao": "Suíça",
+    "sigla": "SUI",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Cedric Itten",
+    "selecao": "Suíça",
+    "sigla": "SUI",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Christian Fassnacht",
+    "selecao": "Suíça",
+    "sigla": "SUI",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Dan Ndoye",
+    "selecao": "Suíça",
+    "sigla": "SUI",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Denis Zakaria",
+    "selecao": "Suíça",
+    "sigla": "SUI",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Djibril Sow",
+    "selecao": "Suíça",
+    "sigla": "SUI",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Fabian Rieder",
+    "selecao": "Suíça",
+    "sigla": "SUI",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Granit Xhaka",
+    "selecao": "Suíça",
+    "sigla": "SUI",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Johan Manzambi",
+    "selecao": "Suíça",
+    "sigla": "SUI",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Michel Aebischer",
+    "selecao": "Suíça",
+    "sigla": "SUI",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Noah Okafor",
+    "selecao": "Suíça",
+    "sigla": "SUI",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Remo Freuler",
+    "selecao": "Suíça",
+    "sigla": "SUI",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Rubén Vargas",
+    "selecao": "Suíça",
+    "sigla": "SUI",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Zeki Amdouni",
+    "selecao": "Suíça",
+    "sigla": "SUI",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Anis Ben Slimane",
+    "selecao": "Tunísia",
+    "sigla": "TUN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Elias Achouri",
+    "selecao": "Tunísia",
+    "sigla": "TUN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Elias Saad",
+    "selecao": "Tunísia",
+    "sigla": "TUN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Ellyes Skhiri",
+    "selecao": "Tunísia",
+    "sigla": "TUN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Firas Chaouat",
+    "selecao": "Tunísia",
+    "sigla": "TUN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Hadj Mahmoud",
+    "selecao": "Tunísia",
+    "sigla": "TUN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Hannibal Mejbri",
+    "selecao": "Tunísia",
+    "sigla": "TUN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Hazem Mastouri",
+    "selecao": "Tunísia",
+    "sigla": "TUN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Ismaël Gharbi",
+    "selecao": "Tunísia",
+    "sigla": "TUN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Khalil Ayari",
+    "selecao": "Tunísia",
+    "sigla": "TUN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Rani Khedira",
+    "selecao": "Tunísia",
+    "sigla": "TUN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Rayan Elloumi",
+    "selecao": "Tunísia",
+    "sigla": "TUN",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Sebastian Tounekti",
+    "selecao": "Tunísia",
+    "sigla": "TUN",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Arda Güler",
+    "selecao": "Turquia",
+    "sigla": "TUR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Barış Alper Yılmaz",
+    "selecao": "Turquia",
+    "sigla": "TUR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Can Uzun",
+    "selecao": "Turquia",
+    "sigla": "TUR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Deniz Gül",
+    "selecao": "Turquia",
+    "sigla": "TUR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Hakan Çalhanoğlu",
+    "selecao": "Turquia",
+    "sigla": "TUR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "İrfan Can Kahveci",
+    "selecao": "Turquia",
+    "sigla": "TUR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "İsmail Yüksek",
+    "selecao": "Turquia",
+    "sigla": "TUR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Kaan Ayhan",
+    "selecao": "Turquia",
+    "sigla": "TUR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Kenan Yıldız",
+    "selecao": "Turquia",
+    "sigla": "TUR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Kerem Aktürkoğlu",
+    "selecao": "Turquia",
+    "sigla": "TUR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Oğuz Aydın",
+    "selecao": "Turquia",
+    "sigla": "TUR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Orkun Kökçü",
+    "selecao": "Turquia",
+    "sigla": "TUR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Salih Özcan",
+    "selecao": "Turquia",
+    "sigla": "TUR",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Yunus Akgün",
+    "selecao": "Turquia",
+    "sigla": "TUR",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Agustín Canobbio",
+    "selecao": "Uruguai",
+    "sigla": "URU",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Brian Rodríguez",
+    "selecao": "Uruguai",
+    "sigla": "URU",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Darwin Núñez",
+    "selecao": "Uruguai",
+    "sigla": "URU",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Emiliano Martínez",
+    "selecao": "Uruguai",
+    "sigla": "URU",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Facundo Pellistri",
+    "selecao": "Uruguai",
+    "sigla": "URU",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Federico Valverde",
+    "selecao": "Uruguai",
+    "sigla": "URU",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Federico Viñas",
+    "selecao": "Uruguai",
+    "sigla": "URU",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Giorgian de Arrascaeta",
+    "selecao": "Uruguai",
+    "sigla": "URU",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Joaquín Piquerez",
+    "selecao": "Uruguai",
+    "sigla": "URU",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Juan Manuel Sanabria",
+    "selecao": "Uruguai",
+    "sigla": "URU",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Manuel Ugarte",
+    "selecao": "Uruguai",
+    "sigla": "URU",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Maximiliano Araújo",
+    "selecao": "Uruguai",
+    "sigla": "URU",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Nicolás de la Cruz",
+    "selecao": "Uruguai",
+    "sigla": "URU",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Rodrigo Aguirre",
+    "selecao": "Uruguai",
+    "sigla": "URU",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Rodrigo Bentancur",
+    "selecao": "Uruguai",
+    "sigla": "URU",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Rodrigo Zalazar",
+    "selecao": "Uruguai",
+    "sigla": "URU",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Abbosbek Fayzullaev",
+    "selecao": "Uzbequistão",
+    "sigla": "UZB",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Akmal Mozgovoy",
+    "selecao": "Uzbequistão",
+    "sigla": "UZB",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Azizbek Amonov",
+    "selecao": "Uzbequistão",
+    "sigla": "UZB",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Azizjon Ganiev",
+    "selecao": "Uzbequistão",
+    "sigla": "UZB",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Dostonbek Khamdamov",
+    "selecao": "Uzbequistão",
+    "sigla": "UZB",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Eldor Shomurodov",
+    "selecao": "Uzbequistão",
+    "sigla": "UZB",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Igor Sergeev",
+    "selecao": "Uzbequistão",
+    "sigla": "UZB",
+    "posicao": "Atacante"
+  },
+  {
+    "nome": "Jaloliddin Masharipov",
+    "selecao": "Uzbequistão",
+    "sigla": "UZB",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Jamshid Iskanderov",
+    "selecao": "Uzbequistão",
+    "sigla": "UZB",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Odiljon Hamrobekov",
+    "selecao": "Uzbequistão",
+    "sigla": "UZB",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Oston Urunov",
+    "selecao": "Uzbequistão",
+    "sigla": "UZB",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Otabek Shukurov",
+    "selecao": "Uzbequistão",
+    "sigla": "UZB",
+    "posicao": "Meio-campo"
+  },
+  {
+    "nome": "Sherzod Esanov",
+    "selecao": "Uzbequistão",
+    "sigla": "UZB",
+    "posicao": "Meio-campo"
+  }
+]

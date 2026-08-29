@@ -1,0 +1,1226 @@
+[
+    {
+        "jogo": 1,
+        "fase": "grupos",
+        "grupo": "A",
+        "rodada": 1,
+        "data": "2026-06-11",
+        "horario": "16:00",
+        "local": "Cidade do México, México",
+        "mandante": {
+            "id": 34,
+            "nome": "México"
+        },
+        "visitante": {
+            "id": 2,
+            "nome": "África do Sul"
+        }
+    },
+    {
+        "jogo": 2,
+        "fase": "grupos",
+        "grupo": "A",
+        "rodada": 1,
+        "data": "2026-06-11",
+        "horario": "23:00",
+        "local": "Guadalajara, México",
+        "mandante": {
+            "id": 15,
+            "nome": "Coreia do Sul"
+        },
+        "visitante": {
+            "id": 41,
+            "nome": "República Tcheca"
+        }
+    },
+    {
+        "jogo": 3,
+        "fase": "grupos",
+        "grupo": "B",
+        "rodada": 1,
+        "data": "2026-06-12",
+        "horario": "16:00",
+        "local": "Toronto, Canadá",
+        "mandante": {
+            "id": 12,
+            "nome": "Canadá"
+        },
+        "visitante": {
+            "id": 9,
+            "nome": "Bósnia e Herzegovina"
+        }
+    },
+    {
+        "jogo": 4,
+        "fase": "grupos",
+        "grupo": "D",
+        "rodada": 1,
+        "data": "2026-06-12",
+        "horario": "22:00",
+        "local": "Los Angeles, EUA",
+        "mandante": {
+            "id": 23,
+            "nome": "Estados Unidos"
+        },
+        "visitante": {
+            "id": 38,
+            "nome": "Paraguai"
+        }
+    },
+    {
+        "jogo": 5,
+        "fase": "grupos",
+        "grupo": "B",
+        "rodada": 1,
+        "data": "2026-06-13",
+        "horario": "16:00",
+        "local": "Santa Clara, EUA",
+        "mandante": {
+            "id": 13,
+            "nome": "Catar"
+        },
+        "visitante": {
+            "id": 44,
+            "nome": "Suíça"
+        }
+    },
+    {
+        "jogo": 6,
+        "fase": "grupos",
+        "grupo": "C",
+        "rodada": 1,
+        "data": "2026-06-13",
+        "horario": "19:00",
+        "local": "Nova York\/Nova Jersey, EUA",
+        "mandante": {
+            "id": 10,
+            "nome": "Brasil"
+        },
+        "visitante": {
+            "id": 33,
+            "nome": "Marrocos"
+        }
+    },
+    {
+        "jogo": 7,
+        "fase": "grupos",
+        "grupo": "C",
+        "rodada": 1,
+        "data": "2026-06-13",
+        "horario": "22:00",
+        "local": "Boston, EUA",
+        "mandante": {
+            "id": 26,
+            "nome": "Haiti"
+        },
+        "visitante": {
+            "id": 21,
+            "nome": "Escócia"
+        }
+    },
+    {
+        "jogo": 8,
+        "fase": "grupos",
+        "grupo": "D",
+        "rodada": 1,
+        "data": "2026-06-14",
+        "horario": "01:00",
+        "local": "Vancouver, Canadá",
+        "mandante": {
+            "id": 6,
+            "nome": "Austrália"
+        },
+        "visitante": {
+            "id": 46,
+            "nome": "Turquia"
+        }
+    },
+    {
+        "jogo": 9,
+        "fase": "grupos",
+        "grupo": "E",
+        "rodada": 1,
+        "data": "2026-06-14",
+        "horario": "14:00",
+        "local": "Houston, EUA",
+        "mandante": {
+            "id": 1,
+            "nome": "Alemanha"
+        },
+        "visitante": {
+            "id": 18,
+            "nome": "Curaçau"
+        }
+    },
+    {
+        "jogo": 10,
+        "fase": "grupos",
+        "grupo": "E",
+        "rodada": 1,
+        "data": "2026-06-14",
+        "horario": "20:00",
+        "local": "Filadélfia, EUA",
+        "mandante": {
+            "id": 16,
+            "nome": "Costa do Marfim"
+        },
+        "visitante": {
+            "id": 20,
+            "nome": "Equador"
+        }
+    },
+    {
+        "jogo": 11,
+        "fase": "grupos",
+        "grupo": "F",
+        "rodada": 1,
+        "data": "2026-06-14",
+        "horario": "17:00",
+        "local": "Dallas, EUA",
+        "mandante": {
+            "id": 27,
+            "nome": "Holanda"
+        },
+        "visitante": {
+            "id": 31,
+            "nome": "Japão"
+        }
+    },
+    {
+        "jogo": 12,
+        "fase": "grupos",
+        "grupo": "F",
+        "rodada": 1,
+        "data": "2026-06-14",
+        "horario": "23:00",
+        "local": "Monterrey, México",
+        "mandante": {
+            "id": 43,
+            "nome": "Suécia"
+        },
+        "visitante": {
+            "id": 45,
+            "nome": "Tunísia"
+        }
+    },
+    {
+        "jogo": 13,
+        "fase": "grupos",
+        "grupo": "H",
+        "rodada": 1,
+        "data": "2026-06-15",
+        "horario": "13:00",
+        "local": "Atlanta, EUA",
+        "mandante": {
+            "id": 22,
+            "nome": "Espanha"
+        },
+        "visitante": {
+            "id": 11,
+            "nome": "Cabo Verde"
+        }
+    },
+    {
+        "jogo": 14,
+        "fase": "grupos",
+        "grupo": "H",
+        "rodada": 1,
+        "data": "2026-06-15",
+        "horario": "19:00",
+        "local": "Miami, EUA",
+        "mandante": {
+            "id": 3,
+            "nome": "Arábia Saudita"
+        },
+        "visitante": {
+            "id": 47,
+            "nome": "Uruguai"
+        }
+    },
+    {
+        "jogo": 15,
+        "fase": "grupos",
+        "grupo": "G",
+        "rodada": 1,
+        "data": "2026-06-15",
+        "horario": "16:00",
+        "local": "Seattle, EUA",
+        "mandante": {
+            "id": 8,
+            "nome": "Bélgica"
+        },
+        "visitante": {
+            "id": 19,
+            "nome": "Egito"
+        }
+    },
+    {
+        "jogo": 16,
+        "fase": "grupos",
+        "grupo": "G",
+        "rodada": 1,
+        "data": "2026-06-15",
+        "horario": "22:00",
+        "local": "Los Angeles, EUA",
+        "mandante": {
+            "id": 29,
+            "nome": "Irã"
+        },
+        "visitante": {
+            "id": 36,
+            "nome": "Nova Zelândia"
+        }
+    },
+    {
+        "jogo": 17,
+        "fase": "grupos",
+        "grupo": "J",
+        "rodada": 1,
+        "data": "2026-06-17",
+        "horario": "01:00",
+        "local": "Santa Clara, EUA",
+        "mandante": {
+            "id": 7,
+            "nome": "Áustria"
+        },
+        "visitante": {
+            "id": 32,
+            "nome": "Jordânia"
+        }
+    },
+    {
+        "jogo": 18,
+        "fase": "grupos",
+        "grupo": "I",
+        "rodada": 1,
+        "data": "2026-06-16",
+        "horario": "16:00",
+        "local": "Nova York\/Nova Jersey, EUA",
+        "mandante": {
+            "id": 24,
+            "nome": "França"
+        },
+        "visitante": {
+            "id": 42,
+            "nome": "Senegal"
+        }
+    },
+    {
+        "jogo": 19,
+        "fase": "grupos",
+        "grupo": "I",
+        "rodada": 1,
+        "data": "2026-06-16",
+        "horario": "19:00",
+        "local": "Boston, EUA",
+        "mandante": {
+            "id": 30,
+            "nome": "Iraque"
+        },
+        "visitante": {
+            "id": 35,
+            "nome": "Noruega"
+        }
+    },
+    {
+        "jogo": 20,
+        "fase": "grupos",
+        "grupo": "J",
+        "rodada": 1,
+        "data": "2026-06-16",
+        "horario": "22:00",
+        "local": "Kansas City, EUA",
+        "mandante": {
+            "id": 4,
+            "nome": "Argentina"
+        },
+        "visitante": {
+            "id": 5,
+            "nome": "Argélia"
+        }
+    },
+    {
+        "jogo": 21,
+        "fase": "grupos",
+        "grupo": "K",
+        "rodada": 1,
+        "data": "2026-06-17",
+        "horario": "14:00",
+        "local": "Houston, EUA",
+        "mandante": {
+            "id": 39,
+            "nome": "Portugal"
+        },
+        "visitante": {
+            "id": 40,
+            "nome": "RD do Congo"
+        }
+    },
+    {
+        "jogo": 22,
+        "fase": "grupos",
+        "grupo": "L",
+        "rodada": 1,
+        "data": "2026-06-17",
+        "horario": "17:00",
+        "local": "Dallas, EUA",
+        "mandante": {
+            "id": 28,
+            "nome": "Inglaterra"
+        },
+        "visitante": {
+            "id": 17,
+            "nome": "Croácia"
+        }
+    },
+    {
+        "jogo": 23,
+        "fase": "grupos",
+        "grupo": "L",
+        "rodada": 1,
+        "data": "2026-06-17",
+        "horario": "20:00",
+        "local": "Toronto, Canadá",
+        "mandante": {
+            "id": 25,
+            "nome": "Gana"
+        },
+        "visitante": {
+            "id": 37,
+            "nome": "Panamá"
+        }
+    },
+    {
+        "jogo": 24,
+        "fase": "grupos",
+        "grupo": "K",
+        "rodada": 1,
+        "data": "2026-06-17",
+        "horario": "21:00",
+        "local": "Cidade do México, México",
+        "mandante": {
+            "id": 48,
+            "nome": "Uzbequistão"
+        },
+        "visitante": {
+            "id": 14,
+            "nome": "Colômbia"
+        }
+    },
+    {
+        "jogo": 25,
+        "fase": "grupos",
+        "grupo": "A",
+        "rodada": 2,
+        "data": "2026-06-18",
+        "horario": "13:00",
+        "local": "Atlanta, EUA",
+        "mandante": {
+            "id": 41,
+            "nome": "República Tcheca"
+        },
+        "visitante": {
+            "id": 2,
+            "nome": "África do Sul"
+        }
+    },
+    {
+        "jogo": 26,
+        "fase": "grupos",
+        "grupo": "B",
+        "rodada": 2,
+        "data": "2026-06-18",
+        "horario": "16:00",
+        "local": "Los Angeles, EUA",
+        "mandante": {
+            "id": 44,
+            "nome": "Suíça"
+        },
+        "visitante": {
+            "id": 9,
+            "nome": "Bósnia e Herzegovina"
+        }
+    },
+    {
+        "jogo": 27,
+        "fase": "grupos",
+        "grupo": "B",
+        "rodada": 2,
+        "data": "2026-06-18",
+        "horario": "19:00",
+        "local": "Vancouver, Canadá",
+        "mandante": {
+            "id": 12,
+            "nome": "Canadá"
+        },
+        "visitante": {
+            "id": 13,
+            "nome": "Catar"
+        }
+    },
+    {
+        "jogo": 28,
+        "fase": "grupos",
+        "grupo": "A",
+        "rodada": 2,
+        "data": "2026-06-18",
+        "horario": "22:00",
+        "local": "Guadalajara, México",
+        "mandante": {
+            "id": 34,
+            "nome": "México"
+        },
+        "visitante": {
+            "id": 15,
+            "nome": "Coreia do Sul"
+        }
+    },
+    {
+        "jogo": 29,
+        "fase": "grupos",
+        "grupo": "D",
+        "rodada": 2,
+        "data": "2026-06-20",
+        "horario": "00:00",
+        "local": "Santa Clara, EUA",
+        "mandante": {
+            "id": 46,
+            "nome": "Turquia"
+        },
+        "visitante": {
+            "id": 38,
+            "nome": "Paraguai"
+        }
+    },
+    {
+        "jogo": 30,
+        "fase": "grupos",
+        "grupo": "D",
+        "rodada": 2,
+        "data": "2026-06-19",
+        "horario": "16:00",
+        "local": "Seattle, EUA",
+        "mandante": {
+            "id": 23,
+            "nome": "Estados Unidos"
+        },
+        "visitante": {
+            "id": 6,
+            "nome": "Austrália"
+        }
+    },
+    {
+        "jogo": 31,
+        "fase": "grupos",
+        "grupo": "C",
+        "rodada": 2,
+        "data": "2026-06-19",
+        "horario": "19:00",
+        "local": "Boston, EUA",
+        "mandante": {
+            "id": 21,
+            "nome": "Escócia"
+        },
+        "visitante": {
+            "id": 33,
+            "nome": "Marrocos"
+        }
+    },
+    {
+        "jogo": 32,
+        "fase": "grupos",
+        "grupo": "C",
+        "rodada": 2,
+        "data": "2026-06-19",
+        "horario": "21:30",
+        "local": "Filadélfia, EUA",
+        "mandante": {
+            "id": 10,
+            "nome": "Brasil"
+        },
+        "visitante": {
+            "id": 26,
+            "nome": "Haiti"
+        }
+    },
+    {
+        "jogo": 33,
+        "fase": "grupos",
+        "grupo": "F",
+        "rodada": 2,
+        "data": "2026-06-20",
+        "horario": "23:00",
+        "local": "Monterrey, México",
+        "mandante": {
+            "id": 45,
+            "nome": "Tunísia"
+        },
+        "visitante": {
+            "id": 31,
+            "nome": "Japão"
+        }
+    },
+    {
+        "jogo": 34,
+        "fase": "grupos",
+        "grupo": "F",
+        "rodada": 2,
+        "data": "2026-06-20",
+        "horario": "14:00",
+        "local": "Houston, EUA",
+        "mandante": {
+            "id": 27,
+            "nome": "Holanda"
+        },
+        "visitante": {
+            "id": 43,
+            "nome": "Suécia"
+        }
+    },
+    {
+        "jogo": 35,
+        "fase": "grupos",
+        "grupo": "E",
+        "rodada": 2,
+        "data": "2026-06-20",
+        "horario": "17:00",
+        "local": "Toronto, Canadá",
+        "mandante": {
+            "id": 1,
+            "nome": "Alemanha"
+        },
+        "visitante": {
+            "id": 16,
+            "nome": "Costa do Marfim"
+        }
+    },
+    {
+        "jogo": 36,
+        "fase": "grupos",
+        "grupo": "E",
+        "rodada": 2,
+        "data": "2026-06-20",
+        "horario": "21:00",
+        "local": "Kansas City, EUA",
+        "mandante": {
+            "id": 20,
+            "nome": "Equador"
+        },
+        "visitante": {
+            "id": 18,
+            "nome": "Curaçau"
+        }
+    },
+    {
+        "jogo": 37,
+        "fase": "grupos",
+        "grupo": "H",
+        "rodada": 2,
+        "data": "2026-06-21",
+        "horario": "13:00",
+        "local": "Atlanta, EUA",
+        "mandante": {
+            "id": 22,
+            "nome": "Espanha"
+        },
+        "visitante": {
+            "id": 3,
+            "nome": "Arábia Saudita"
+        }
+    },
+    {
+        "jogo": 38,
+        "fase": "grupos",
+        "grupo": "G",
+        "rodada": 2,
+        "data": "2026-06-21",
+        "horario": "16:00",
+        "local": "Los Angeles, EUA",
+        "mandante": {
+            "id": 8,
+            "nome": "Bélgica"
+        },
+        "visitante": {
+            "id": 29,
+            "nome": "Irã"
+        }
+    },
+    {
+        "jogo": 39,
+        "fase": "grupos",
+        "grupo": "H",
+        "rodada": 2,
+        "data": "2026-06-21",
+        "horario": "19:00",
+        "local": "Miami, EUA",
+        "mandante": {
+            "id": 47,
+            "nome": "Uruguai"
+        },
+        "visitante": {
+            "id": 11,
+            "nome": "Cabo Verde"
+        }
+    },
+    {
+        "jogo": 40,
+        "fase": "grupos",
+        "grupo": "G",
+        "rodada": 2,
+        "data": "2026-06-21",
+        "horario": "22:00",
+        "local": "Vancouver, Canadá",
+        "mandante": {
+            "id": 36,
+            "nome": "Nova Zelândia"
+        },
+        "visitante": {
+            "id": 19,
+            "nome": "Egito"
+        }
+    },
+    {
+        "jogo": 41,
+        "fase": "grupos",
+        "grupo": "J",
+        "rodada": 2,
+        "data": "2026-06-22",
+        "horario": "14:00",
+        "local": "Dallas, EUA",
+        "mandante": {
+            "id": 4,
+            "nome": "Argentina"
+        },
+        "visitante": {
+            "id": 7,
+            "nome": "Áustria"
+        }
+    },
+    {
+        "jogo": 42,
+        "fase": "grupos",
+        "grupo": "I",
+        "rodada": 2,
+        "data": "2026-06-22",
+        "horario": "18:00",
+        "local": "Filadélfia, EUA",
+        "mandante": {
+            "id": 24,
+            "nome": "França"
+        },
+        "visitante": {
+            "id": 30,
+            "nome": "Iraque"
+        }
+    },
+    {
+        "jogo": 43,
+        "fase": "grupos",
+        "grupo": "I",
+        "rodada": 2,
+        "data": "2026-06-22",
+        "horario": "21:00",
+        "local": "Nova York\/Nova Jersey, EUA",
+        "mandante": {
+            "id": 35,
+            "nome": "Noruega"
+        },
+        "visitante": {
+            "id": 42,
+            "nome": "Senegal"
+        }
+    },
+    {
+        "jogo": 44,
+        "fase": "grupos",
+        "grupo": "J",
+        "rodada": 2,
+        "data": "2026-06-23",
+        "horario": "00:00",
+        "local": "Santa Clara, EUA",
+        "mandante": {
+            "id": 32,
+            "nome": "Jordânia"
+        },
+        "visitante": {
+            "id": 5,
+            "nome": "Argélia"
+        }
+    },
+    {
+        "jogo": 45,
+        "fase": "grupos",
+        "grupo": "K",
+        "rodada": 2,
+        "data": "2026-06-23",
+        "horario": "14:00",
+        "local": "Houston, EUA",
+        "mandante": {
+            "id": 39,
+            "nome": "Portugal"
+        },
+        "visitante": {
+            "id": 48,
+            "nome": "Uzbequistão"
+        }
+    },
+    {
+        "jogo": 46,
+        "fase": "grupos",
+        "grupo": "L",
+        "rodada": 2,
+        "data": "2026-06-23",
+        "horario": "17:00",
+        "local": "Boston, EUA",
+        "mandante": {
+            "id": 28,
+            "nome": "Inglaterra"
+        },
+        "visitante": {
+            "id": 25,
+            "nome": "Gana"
+        }
+    },
+    {
+        "jogo": 47,
+        "fase": "grupos",
+        "grupo": "L",
+        "rodada": 2,
+        "data": "2026-06-23",
+        "horario": "20:00",
+        "local": "Toronto, Canadá",
+        "mandante": {
+            "id": 37,
+            "nome": "Panamá"
+        },
+        "visitante": {
+            "id": 17,
+            "nome": "Croácia"
+        }
+    },
+    {
+        "jogo": 48,
+        "fase": "grupos",
+        "grupo": "K",
+        "rodada": 2,
+        "data": "2026-06-23",
+        "horario": "23:00",
+        "local": "Guadalajara, México",
+        "mandante": {
+            "id": 14,
+            "nome": "Colômbia"
+        },
+        "visitante": {
+            "id": 40,
+            "nome": "RD do Congo"
+        }
+    },
+    {
+        "jogo": 49,
+        "fase": "grupos",
+        "grupo": "B",
+        "rodada": 3,
+        "data": "2026-06-24",
+        "horario": "16:00",
+        "local": "Vancouver, Canadá",
+        "mandante": {
+            "id": 44,
+            "nome": "Suíça"
+        },
+        "visitante": {
+            "id": 12,
+            "nome": "Canadá"
+        }
+    },
+    {
+        "jogo": 50,
+        "fase": "grupos",
+        "grupo": "B",
+        "rodada": 3,
+        "data": "2026-06-24",
+        "horario": "16:00",
+        "local": "Seattle, EUA",
+        "mandante": {
+            "id": 9,
+            "nome": "Bósnia e Herzegovina"
+        },
+        "visitante": {
+            "id": 13,
+            "nome": "Catar"
+        }
+    },
+    {
+        "jogo": 51,
+        "fase": "grupos",
+        "grupo": "C",
+        "rodada": 3,
+        "data": "2026-06-24",
+        "horario": "19:00",
+        "local": "Miami, EUA",
+        "mandante": {
+            "id": 21,
+            "nome": "Escócia"
+        },
+        "visitante": {
+            "id": 10,
+            "nome": "Brasil"
+        }
+    },
+    {
+        "jogo": 52,
+        "fase": "grupos",
+        "grupo": "C",
+        "rodada": 3,
+        "data": "2026-06-24",
+        "horario": "19:00",
+        "local": "Atlanta, EUA",
+        "mandante": {
+            "id": 33,
+            "nome": "Marrocos"
+        },
+        "visitante": {
+            "id": 26,
+            "nome": "Haiti"
+        }
+    },
+    {
+        "jogo": 53,
+        "fase": "grupos",
+        "grupo": "A",
+        "rodada": 3,
+        "data": "2026-06-24",
+        "horario": "22:00",
+        "local": "Cidade do México, México",
+        "mandante": {
+            "id": 41,
+            "nome": "República Tcheca"
+        },
+        "visitante": {
+            "id": 34,
+            "nome": "México"
+        }
+    },
+    {
+        "jogo": 54,
+        "fase": "grupos",
+        "grupo": "A",
+        "rodada": 3,
+        "data": "2026-06-24",
+        "horario": "22:00",
+        "local": "Monterrey, México",
+        "mandante": {
+            "id": 2,
+            "nome": "África do Sul"
+        },
+        "visitante": {
+            "id": 15,
+            "nome": "Coreia do Sul"
+        }
+    },
+    {
+        "jogo": 55,
+        "fase": "grupos",
+        "grupo": "E",
+        "rodada": 3,
+        "data": "2026-06-25",
+        "horario": "17:00",
+        "local": "Nova York\/Nova Jersey, EUA",
+        "mandante": {
+            "id": 20,
+            "nome": "Equador"
+        },
+        "visitante": {
+            "id": 1,
+            "nome": "Alemanha"
+        }
+    },
+    {
+        "jogo": 56,
+        "fase": "grupos",
+        "grupo": "E",
+        "rodada": 3,
+        "data": "2026-06-25",
+        "horario": "17:00",
+        "local": "Filadélfia, EUA",
+        "mandante": {
+            "id": 18,
+            "nome": "Curaçau"
+        },
+        "visitante": {
+            "id": 16,
+            "nome": "Costa do Marfim"
+        }
+    },
+    {
+        "jogo": 57,
+        "fase": "grupos",
+        "grupo": "F",
+        "rodada": 3,
+        "data": "2026-06-25",
+        "horario": "20:00",
+        "local": "Dallas, EUA",
+        "mandante": {
+            "id": 31,
+            "nome": "Japão"
+        },
+        "visitante": {
+            "id": 43,
+            "nome": "Suécia"
+        }
+    },
+    {
+        "jogo": 58,
+        "fase": "grupos",
+        "grupo": "F",
+        "rodada": 3,
+        "data": "2026-06-25",
+        "horario": "20:00",
+        "local": "Kansas City, EUA",
+        "mandante": {
+            "id": 45,
+            "nome": "Tunísia"
+        },
+        "visitante": {
+            "id": 27,
+            "nome": "Holanda"
+        }
+    },
+    {
+        "jogo": 59,
+        "fase": "grupos",
+        "grupo": "D",
+        "rodada": 3,
+        "data": "2026-06-25",
+        "horario": "23:00",
+        "local": "Los Angeles, EUA",
+        "mandante": {
+            "id": 46,
+            "nome": "Turquia"
+        },
+        "visitante": {
+            "id": 23,
+            "nome": "Estados Unidos"
+        }
+    },
+    {
+        "jogo": 60,
+        "fase": "grupos",
+        "grupo": "D",
+        "rodada": 3,
+        "data": "2026-06-25",
+        "horario": "23:00",
+        "local": "Santa Clara, EUA",
+        "mandante": {
+            "id": 38,
+            "nome": "Paraguai"
+        },
+        "visitante": {
+            "id": 6,
+            "nome": "Austrália"
+        }
+    },
+    {
+        "jogo": 61,
+        "fase": "grupos",
+        "grupo": "I",
+        "rodada": 3,
+        "data": "2026-06-26",
+        "horario": "16:00",
+        "local": "Boston, EUA",
+        "mandante": {
+            "id": 35,
+            "nome": "Noruega"
+        },
+        "visitante": {
+            "id": 24,
+            "nome": "França"
+        }
+    },
+    {
+        "jogo": 62,
+        "fase": "grupos",
+        "grupo": "I",
+        "rodada": 3,
+        "data": "2026-06-26",
+        "horario": "16:00",
+        "local": "Toronto, Canadá",
+        "mandante": {
+            "id": 42,
+            "nome": "Senegal"
+        },
+        "visitante": {
+            "id": 30,
+            "nome": "Iraque"
+        }
+    },
+    {
+        "jogo": 63,
+        "fase": "grupos",
+        "grupo": "H",
+        "rodada": 3,
+        "data": "2026-06-26",
+        "horario": "21:00",
+        "local": "Houston, EUA",
+        "mandante": {
+            "id": 11,
+            "nome": "Cabo Verde"
+        },
+        "visitante": {
+            "id": 3,
+            "nome": "Arábia Saudita"
+        }
+    },
+    {
+        "jogo": 64,
+        "fase": "grupos",
+        "grupo": "H",
+        "rodada": 3,
+        "data": "2026-06-26",
+        "horario": "21:00",
+        "local": "Guadalajara, México",
+        "mandante": {
+            "id": 47,
+            "nome": "Uruguai"
+        },
+        "visitante": {
+            "id": 22,
+            "nome": "Espanha"
+        }
+    },
+    {
+        "jogo": 65,
+        "fase": "grupos",
+        "grupo": "G",
+        "rodada": 3,
+        "data": "2026-06-27",
+        "horario": "00:00",
+        "local": "Seattle, EUA",
+        "mandante": {
+            "id": 19,
+            "nome": "Egito"
+        },
+        "visitante": {
+            "id": 29,
+            "nome": "Irã"
+        }
+    },
+    {
+        "jogo": 66,
+        "fase": "grupos",
+        "grupo": "G",
+        "rodada": 3,
+        "data": "2026-06-27",
+        "horario": "00:00",
+        "local": "Vancouver, Canadá",
+        "mandante": {
+            "id": 36,
+            "nome": "Nova Zelândia"
+        },
+        "visitante": {
+            "id": 8,
+            "nome": "Bélgica"
+        }
+    },
+    {
+        "jogo": 67,
+        "fase": "grupos",
+        "grupo": "L",
+        "rodada": 3,
+        "data": "2026-06-27",
+        "horario": "18:00",
+        "local": "Nova York\/Nova Jersey, EUA",
+        "mandante": {
+            "id": 37,
+            "nome": "Panamá"
+        },
+        "visitante": {
+            "id": 28,
+            "nome": "Inglaterra"
+        }
+    },
+    {
+        "jogo": 68,
+        "fase": "grupos",
+        "grupo": "L",
+        "rodada": 3,
+        "data": "2026-06-27",
+        "horario": "18:00",
+        "local": "Filadélfia, EUA",
+        "mandante": {
+            "id": 17,
+            "nome": "Croácia"
+        },
+        "visitante": {
+            "id": 25,
+            "nome": "Gana"
+        }
+    },
+    {
+        "jogo": 69,
+        "fase": "grupos",
+        "grupo": "K",
+        "rodada": 3,
+        "data": "2026-06-27",
+        "horario": "20:30",
+        "local": "Miami, EUA",
+        "mandante": {
+            "id": 14,
+            "nome": "Colômbia"
+        },
+        "visitante": {
+            "id": 39,
+            "nome": "Portugal"
+        }
+    },
+    {
+        "jogo": 70,
+        "fase": "grupos",
+        "grupo": "K",
+        "rodada": 3,
+        "data": "2026-06-27",
+        "horario": "20:30",
+        "local": "Atlanta, EUA",
+        "mandante": {
+            "id": 40,
+            "nome": "RD do Congo"
+        },
+        "visitante": {
+            "id": 48,
+            "nome": "Uzbequistão"
+        }
+    },
+    {
+        "jogo": 71,
+        "fase": "grupos",
+        "grupo": "J",
+        "rodada": 3,
+        "data": "2026-06-27",
+        "horario": "23:00",
+        "local": "Kansas City, EUA",
+        "mandante": {
+            "id": 5,
+            "nome": "Argélia"
+        },
+        "visitante": {
+            "id": 7,
+            "nome": "Áustria"
+        }
+    },
+    {
+        "jogo": 72,
+        "fase": "grupos",
+        "grupo": "J",
+        "rodada": 3,
+        "data": "2026-06-28",
+        "horario": "23:00",
+        "local": "Dallas, EUA",
+        "mandante": {
+            "id": 32,
+            "nome": "Jordânia"
+        },
+        "visitante": {
+            "id": 4,
+            "nome": "Argentina"
+        }
+    }
+]

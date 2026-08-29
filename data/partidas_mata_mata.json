@@ -1,0 +1,39 @@
+[
+    { "jogo": 73, "fase": "16avos", "ordem": 1,  "data": "2026-06-28", "horario": "16:00", "rotulo_casa": "2º A", "rotulo_fora": "2º B" },
+    { "jogo": 74, "fase": "16avos", "ordem": 2,  "data": "2026-06-29", "horario": "17:00", "rotulo_casa": "1º E", "rotulo_fora": "3º A/B/C/D/F" },
+    { "jogo": 75, "fase": "16avos", "ordem": 3,  "data": "2026-06-29", "horario": "22:00", "rotulo_casa": "1º F", "rotulo_fora": "2º C" },
+    { "jogo": 76, "fase": "16avos", "ordem": 4,  "data": "2026-06-29", "horario": "14:00", "rotulo_casa": "1º C", "rotulo_fora": "2º F" },
+    { "jogo": 77, "fase": "16avos", "ordem": 5,  "data": "2026-06-30", "horario": "18:00", "rotulo_casa": "1º I", "rotulo_fora": "3º C/D/F/G/H" },
+    { "jogo": 78, "fase": "16avos", "ordem": 6,  "data": "2026-06-30", "horario": "14:00", "rotulo_casa": "2º E", "rotulo_fora": "2º I" },
+    { "jogo": 79, "fase": "16avos", "ordem": 7,  "data": "2026-06-30", "horario": "22:00", "rotulo_casa": "1º A", "rotulo_fora": "3º C/E/F/H/I" },
+    { "jogo": 80, "fase": "16avos", "ordem": 8,  "data": "2026-07-01", "horario": "13:00", "rotulo_casa": "1º L", "rotulo_fora": "3º E/H/I/J/K" },
+    { "jogo": 81, "fase": "16avos", "ordem": 9,  "data": "2026-07-01", "horario": "21:00", "rotulo_casa": "1º D", "rotulo_fora": "3º B/E/F/I/J" },
+    { "jogo": 82, "fase": "16avos", "ordem": 10, "data": "2026-07-01", "horario": "17:00", "rotulo_casa": "1º G", "rotulo_fora": "3º A/E/H/I/J" },
+    { "jogo": 83, "fase": "16avos", "ordem": 11, "data": "2026-07-02", "horario": "20:00", "rotulo_casa": "2º K", "rotulo_fora": "2º L" },
+    { "jogo": 84, "fase": "16avos", "ordem": 12, "data": "2026-07-02", "horario": "16:00", "rotulo_casa": "1º H", "rotulo_fora": "2º J" },
+    { "jogo": 85, "fase": "16avos", "ordem": 13, "data": "2026-07-02", "horario": "22:00", "rotulo_casa": "1º B", "rotulo_fora": "3º E/F/G/I/J" },
+    { "jogo": 86, "fase": "16avos", "ordem": 14, "data": "2026-07-03", "horario": "19:00", "rotulo_casa": "1º J", "rotulo_fora": "2º H" },
+    { "jogo": 87, "fase": "16avos", "ordem": 15, "data": "2026-07-03", "horario": "22:30", "rotulo_casa": "1º K", "rotulo_fora": "3º D/E/I/J/L" },
+    { "jogo": 88, "fase": "16avos", "ordem": 16, "data": "2026-07-03", "horario": "15:00", "rotulo_casa": "2º D", "rotulo_fora": "2º G" },
+
+    { "jogo": 89, "fase": "oitavas", "ordem": 1, "data": "2026-07-04", "horario": "18:00", "origem_casa": 74, "origem_fora": 77, "rotulo_casa": "Vencedor Jogo 74", "rotulo_fora": "Vencedor Jogo 77" },
+    { "jogo": 90, "fase": "oitavas", "ordem": 2, "data": "2026-07-04", "horario": "14:00", "origem_casa": 73, "origem_fora": 75, "rotulo_casa": "Vencedor Jogo 73", "rotulo_fora": "Vencedor Jogo 75" },
+    { "jogo": 91, "fase": "oitavas", "ordem": 3, "data": "2026-07-05", "horario": "17:00", "origem_casa": 76, "origem_fora": 78, "rotulo_casa": "Vencedor Jogo 76", "rotulo_fora": "Vencedor Jogo 78" },
+    { "jogo": 92, "fase": "oitavas", "ordem": 4, "data": "2026-07-05", "horario": "21:00", "origem_casa": 79, "origem_fora": 80, "rotulo_casa": "Vencedor Jogo 79", "rotulo_fora": "Vencedor Jogo 80" },
+    { "jogo": 93, "fase": "oitavas", "ordem": 5, "data": "2026-07-06", "horario": "16:00", "origem_casa": 83, "origem_fora": 84, "rotulo_casa": "Vencedor Jogo 83", "rotulo_fora": "Vencedor Jogo 84" },
+    { "jogo": 94, "fase": "oitavas", "ordem": 6, "data": "2026-07-06", "horario": "21:00", "origem_casa": 81, "origem_fora": 82, "rotulo_casa": "Vencedor Jogo 81", "rotulo_fora": "Vencedor Jogo 82" },
+    { "jogo": 95, "fase": "oitavas", "ordem": 7, "data": "2026-07-06", "horario": "13:00", "origem_casa": 86, "origem_fora": 88, "rotulo_casa": "Vencedor Jogo 86", "rotulo_fora": "Vencedor Jogo 88" },
+    { "jogo": 96, "fase": "oitavas", "ordem": 8, "data": "2026-07-07", "horario": "17:00", "origem_casa": 85, "origem_fora": 87, "rotulo_casa": "Vencedor Jogo 85", "rotulo_fora": "Vencedor Jogo 87" },
+
+    { "jogo": 97,  "fase": "quartas", "ordem": 1, "data": "2026-07-09", "horario": "17:00", "origem_casa": 89, "origem_fora": 90, "rotulo_casa": "Vencedor Jogo 89", "rotulo_fora": "Vencedor Jogo 90" },
+    { "jogo": 98,  "fase": "quartas", "ordem": 2, "data": "2026-07-10", "horario": "16:00", "origem_casa": 93, "origem_fora": 94, "rotulo_casa": "Vencedor Jogo 93", "rotulo_fora": "Vencedor Jogo 94" },
+    { "jogo": 99,  "fase": "quartas", "ordem": 3, "data": "2026-07-11", "horario": "18:00", "origem_casa": 91, "origem_fora": 92, "rotulo_casa": "Vencedor Jogo 91", "rotulo_fora": "Vencedor Jogo 92" },
+    { "jogo": 100, "fase": "quartas", "ordem": 4, "data": "2026-07-11", "horario": "22:00", "origem_casa": 95, "origem_fora": 96, "rotulo_casa": "Vencedor Jogo 95", "rotulo_fora": "Vencedor Jogo 96" },
+
+    { "jogo": 101, "fase": "semi", "ordem": 1, "data": "2026-07-14", "horario": "16:00", "origem_casa": 97, "origem_fora": 98,  "rotulo_casa": "Vencedor Jogo 97", "rotulo_fora": "Vencedor Jogo 98" },
+    { "jogo": 102, "fase": "semi", "ordem": 2, "data": "2026-07-15", "horario": "16:00", "origem_casa": 99, "origem_fora": 100, "rotulo_casa": "Vencedor Jogo 99", "rotulo_fora": "Vencedor Jogo 100" },
+
+    { "jogo": 103, "fase": "terceiro", "ordem": 1, "data": "2026-07-18", "horario": "18:00", "origem_casa": 101, "origem_casa_tipo": "perdedor", "origem_fora": 102, "origem_fora_tipo": "perdedor", "rotulo_casa": "Perdedor Jogo 101", "rotulo_fora": "Perdedor Jogo 102" },
+
+    { "jogo": 104, "fase": "final", "ordem": 1, "data": "2026-07-19", "horario": "16:00", "origem_casa": 101, "origem_fora": 102, "rotulo_casa": "Vencedor Jogo 101", "rotulo_fora": "Vencedor Jogo 102" }
+]
