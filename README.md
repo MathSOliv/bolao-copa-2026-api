@@ -55,23 +55,23 @@ Empate de pontos: quem cadastrou primeiro fica na frente.
 
 Uma única faixa: placar exato **ou** resultado **ou** erro (não somam).
 
-| Resultado do palpite | Pontos |
-|---|---|
-| Placar exato | 15 |
-| Acertou o vencedor ou o empate | 5 |
-| Errou | 0 |
+| Resultado do palpite           | Pontos |
+|---                             |---     |
+| Placar exato                   | 15     |
+| Acertou o vencedor ou o empate | 5      |
+| Errou                          | 0      |
 
 ### Mata-mata
 
 Duas faixas **independentes** que somam. O classificado é quem avançou de fato
 (inclusive nos pênaltis), não só quem ganhou no tempo normal.
 
-| Acerto | Pontos |
-|---|---|
-| Placar exato do tempo normal | 30 |
-| Acertou quem se classificou | 20 |
-| Os dois | 50 |
-| Nenhum | 0 |
+| Acerto                       | Pontos |
+|---                           |---     |
+| Placar exato do tempo normal | 30     |
+| Acertou quem se classificou  | 20     |
+| Os dois                      | 50     |
+| Nenhum                       | 0      |
 
 Não há pontos por “só acertar o vencedor do tempo normal” no mata-mata.
 
@@ -88,25 +88,25 @@ ou campo `"token"` no JSON.
 
 ### Públicos
 
-| Método | Arquivo | Descrição |
-|---|---|---|
-| GET | `get_nome_colaborador.php?matricula=` | Nome do colaborador na base da empresa |
-| POST | `cadastro.php` | `{ matricula, email, senha }` — nome vem da base, não do cliente |
-| POST | `login.php` | `{ matricula, senha }` → token + user |
-| GET | `get_partidas.php` | Lista partidas; com token, inclui o palpite do usuário |
-| GET | `get_selecoes.php` | Seleções (id, nome, sigla, bandeira) |
-| GET | `get_ranking.php` | Ranking por pontos e data de cadastro |
-| GET | `get_termometro_palpites.php` | % de palpites casa / empate / fora por jogo |
+| Método | Arquivo                       | Descrição                                                        |
+|---     |---                            |---                                                               |
+| POST   | `cadastro.php`                | `{ matricula, email, senha }` — nome vem da base, não do cliente |
+| POST   | `login.php`                   | `{ matricula, senha }` → token + user                            |
+| GET    | `get_partidas.php`            | Lista partidas; com token, inclui o palpite do usuário           |
+| GET    | `get_selecoes.php`            | Seleções (id, nome, sigla, bandeira)                             |
+| GET    | `get_termometro_palpites.php` | % de palpites casa / empate / fora por jogo                      |
 
 ### Autenticados
 
-| Método | Arquivo | Descrição |
-|---|---|---|
-| POST | `save_palpite.php` | Palpite da partida: `{ partida_id, gols_casa, gols_fora }` (mata-mata também envia `classificado`) |
-| POST | `save_palpite_especial.php` | `{ selecao_sigla, artilheiro_nome }` |
-| GET | `get_palpite_especial.php` | Palpite especial do usuário + `pode_editar` |
-| GET | `get_usuarios_comparacao.php` | Usuários disponíveis para comparar (exceto o logado) |
-| GET | `get_comparacao_palpites.php?usuario_id=` | Compara palpites; os do outro só aparecem após os 20 min |
+| Método | Arquivo                                   | Descrição                                                                                          |
+|---     |---                                        |---                                                                                                 |
+| GET    | `get_ranking.php`                         | Ranking por pontos e data de cadastro                                                              |
+| GET    | `get_nome_colaborador.php?matricula=`     | Nome do colaborador na base da empresa                                                             |
+| POST   | `save_palpite.php`                        | Palpite da partida: `{ partida_id, gols_casa, gols_fora }` (mata-mata também envia `classificado`) |
+| POST   | `save_palpite_especial.php`               | `{ selecao_sigla, artilheiro_nome }`                                                               |
+| GET    | `get_palpite_especial.php`                | Palpite especial do usuário + `pode_editar`                                                        |
+| GET    | `get_usuarios_comparacao.php`             | Usuários disponíveis para comparar (exceto o logado)                                               |
+| GET    | `get_comparacao_palpites.php?usuario_id=` | Compara palpites; os do outro só aparecem após os 20 min                                           |
 
 ### Admin (matrículas de `WC_ADMIN_MATRICULAS`)
 

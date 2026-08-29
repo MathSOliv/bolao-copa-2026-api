@@ -9,8 +9,9 @@
  *   1. Pontos (maior primeiro)
  *   2. Data de criação do usuário (mais antigo primeiro)
  *
- * Entrada (GET):
+ * Entrada (GET + Authorization: Bearer {token}):
  *   /Painel/wc_backend/get_ranking.php
+ *   /Painel/wc_backend/get_ranking.php?token=...
  */
 
 declare(strict_types=1);
@@ -41,6 +42,16 @@ if (!($conexao instanceof mysqli)) {
 }
 
 $conexao->set_charset('utf8mb4');
+
+$token = wcExtrairToken();
+$usuario = wcAutenticarPorToken($conexao, $token);
+
+if (!$usuario) {
+    http_response_code(401);
+    echo json_encode(['STATUS' => 'ERROR', 'error' => 'Sessão inválida ou expirada.']);
+    $conexao->close();
+    exit;
+}
 
 $sql = 'SELECT
     u.id,
